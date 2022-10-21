@@ -9,9 +9,7 @@ redirect_from:
 ---
 About me
 ======
-#Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are #in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these #various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository 
-
-I am currently an Senior Research Scientist (equivalently, Associate Professor) with the Peng Cheng Laboratory, Shenzhen, China. 
+I am currently an senior research scientist (equivalent to associate professor) with the Peng Cheng Laboratory, Shenzhen, China. 
 
 Research
 ======
