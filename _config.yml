@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Wei Wang"
   avatar           : "profile2.png"
-  bio              : "Ph.D, the University of New South Wales \r Editor for IEEE Wireless Communications Letters"
+  bio              : "Ph.D, the University of New South Wales",  
+                      "Editor for IEEE Wireless Communications Letters"
   location         : # "Location"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
