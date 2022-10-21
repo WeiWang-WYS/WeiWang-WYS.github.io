@@ -9,7 +9,7 @@ redirect_from:
 ---
 About me
 ======
-I am currently an senior research scientist (equivalent to associate professor) with the Peng Cheng Laboratory, Shenzhen, China. 
+I am currently a senior research scientist (equivalent to associate professor) with the Peng Cheng Laboratory, Shenzhen, China. 
 
 Research
 ======
