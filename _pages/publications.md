@@ -7,7 +7,7 @@ author_profile: true
 
 Journal Papers
 ------
-[J1] W. Wang and W. Zhang, “Intelligent reflecting surface configurations for smart radio using deep reinforcement learning,” IEEE Journal on Selected Areas in Communications, vol. 40, no, 8, pp. 2335-2346, Aug. 2022.
+[J1] **W. Wang** and W. Zhang, “Intelligent reflecting surface configurations for smart radio using deep reinforcement learning,” IEEE Journal on Selected Areas in Communications, vol. 40, no, 8, pp. 2335-2346, Aug. 2022.
 
 [J2] W. Wang and W. Zhang, “Jittering effects analysis and beam training design for UAV millimeter wave communications,” IEEE Transactions on Wireless Communications, vol. 21, no. 5, pp. 3131-3146, May 2022.
 
