@@ -21,4 +21,13 @@ Journal Papers
 
 Conference Papers
 ------
-[C1] W. Wang, and W. Zhang, “ Deep Reinforcement Learning Empowered Smart Control of Intelligent Reflecting Surface,” in Proc. IEEE Global Communications Conference (GLOBECOM 2022), Rio de Janeiro, Brazil, Dec.4-8, 2022.
+[C1] W.Wang and W. Zhang, “Deep reinforcement learning empowered smart control of intelligent reflecting surface,” Proc. IEEE Global Communications Conference (GLOBECOM 2022), Rio de Janeiro, Brazil. <br>
+[C2] H. Wu, Z. Shao, G. Cheng, X. Hu, J. Ren, and W. Wang, “Detecting slow port scans of long duration in high-speed networks,” Proc. IEEE Global Communications Conference (GLOBECOM 2022), Rio de Janeiro, Brazil. <br>
+[C3] W. Z. Zhang and W. Wang, “IRS-aided indoor millimeter-wave system: Near-field codebook design,” IEEE Global Communications Conference (GLOBECOM 2022) Workshop, Rio de Janeiro, Brazil. <br>
+[C4] W. Wang, W. Zhang, Y. Li, and J. Lu, “Channel estimation and hybrid precoding for multipanel millimeter wave MIMO,” IEEE Int. Conf. Commun. (ICC 2018), Kansas, USA, May 20-24, 2018. <br>
+[C5] W.Wang and W. Zhang, “Antenna subset selection for Line-of-Sight millimeter wave massive MIMO systems,” in Proc. the 23rd Asia Pacific Conference on Communications (APCC 2017), Perth, Australia, Dec. 11-13, 2017. <br>
+[C6] W. Wang and W. Zhang, “Optimal signal constellation for downlink two-user NOMA,” in Proc. the 23rd Asia Pacific Conference on Communications (APCC 2017), Perth, Australia, Dec. 11-13, 2017. <br>
+[C7] W. Wang and W. Zhang, “Spatial modulation using analog phase shifters,” in Proc. IEEE International Conference on Communications (ICC 2017), Paris, France, May 21-25, 2017. <br>
+[C8] W. Wang and W. Zhang, “Adaptive spatial modulation using Huffman coding,” in Proc. IEEE Global Communications Conference (GLOBECOM 2016), Washington, DC, USA, Dec. 4-8, 2016. <br>
+[C9] W. Wang and W. Zhang, “Signal shaping based lattice codes for MIMO systems,” in Proc. IEEE International Conference on Communications in China (ICCC 2016), Chengdu, China, July 27-29, 2016. <br>
+[C10] W. Wang and W. Zhang, “Diagonal precoder designs for spatial modulation,” in Proc. IEEE Int. Conf. Commun. (ICC 2015), London, UK, Jun., 2015, pp. 2411-2415. <br>
