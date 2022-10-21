@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Wei Wang"
   avatar           : "profile2.png"
-  bio              : "Ph.D, the University of New South Wales"
-  location         : "Location"
+  bio              : "Ph.D, the University of New South Wales, Editor for IEEE Wireless Communications Letters"
+  location         : # "Location"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
