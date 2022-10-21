@@ -1,8 +1,11 @@
 ---
-layout: archive
+permalink: /
 title: "Publications"
-permalink: /publications/
+excerpt: "Publications"
 author_profile: true
+redirect_from: 
+  - /Publications/
+  - /Publications.html
 ---
 
 Journal Papers
