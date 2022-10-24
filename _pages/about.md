@@ -9,7 +9,7 @@ redirect_from:
 ---
 Short Bio
 ======
-Wei Wang is currently a senior research scientist (equivalent to associate professor) with the Peng Cheng Laboratory, Shenzhen, China. He received the B.S. degree from Central South University, Changsha, China in 2010, the M.S. degree from Southeast University, Nanjing, China in 2013, and the Ph.D. degree from the University of New South Wales, Sydney, Australia in 2017. From 2018 to 2021, he was a Post-Doctoral Research Fellow with the School of Electrical Engineering and Telecommunications, the University of New South Wales, Sydney, Australia. He serves as an Editor of IEEE Wireless Communications Letters.
+Wei Wang is currently a senior research scientist (equivalent to associate professor) with the Peng Cheng Laboratory, Shenzhen, China. He received the B.S. degree from Central South University (with the highest honor), Changsha, China in 2010, the M.S. degree from Southeast University, Nanjing, China in 2013, and the Ph.D. degree from the University of New South Wales, Sydney, Australia in 2017. From 2018 to 2021, he was a Post-Doctoral Research Fellow with the School of Electrical Engineering and Telecommunications, the University of New South Wales, Sydney, Australia. He serves as an Editor of IEEE Wireless Communications Letters.
 
 Research Interests
 ======
