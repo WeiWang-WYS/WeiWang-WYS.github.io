@@ -7,30 +7,37 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About me
+Short Bio
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. 
-I am currently a senior research scientist (equivalent to associate professor) with the Peng Cheng Laboratory, Shenzhen, China. 
+Wei Wang is currently a senior research scientist (equivalent to associate professor) with the Peng Cheng Laboratory, Shenzhen, China. He received the B.S. degree from Central South University, Changsha, China in 2010, the M.S. degree from Southeast University, Nanjing, China in 2013, and the Ph.D. degree from the University of New South Wales, Sydney, Australia in 2017. From 2018 to 2021, he was a Post-Doctoral Research Fellow with the School of Electrical Engineering and Telecommunications, the University of New South Wales, Sydney, Australia. He serves as an Editor of IEEE Wireless Communications Letters. He received IEEE Wireless Communications Letters Exemplary Reviewer Award from 2017 to 2019, IEEE Transactions on Communications Exemplary Reviewer Award in 2017, and the Best Paper Award for IEEE/CIC International Conference on Communications in China in 2016.
 
-Research
+Research Interests
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+**Intelligent reflecting surfaces assisted wireless communications** <\br>
+– Creating smart radio environment using intelligent reflecting surfaces and reinforcement
+learning technologies. <\br>
+**UAV communications** <\br>
+Integrating wireless sensing with air navigation for the smarter control of UAV flight and
+communications in urban cellular networks. <\br>
+**Artificial Intelligence (AI) in wireless communications** <\br>
+– Exploiting the spatial signatures of wireless channels using deep learning technologies to
+self-cluster, auto-encode, and auto-decode the massive data of wireless channels. <\br>
+**Joint localization and millimeter wave communications** <\br>
+– Embracing localization with mmWave communications to build the dual-function (positioning
+& communications) infrastructures for urban IoT. <\br>
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Recent News
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
 Projects
 ======
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+**Natural Science Foundation of China Project For Young Researcher**, 300K RMB, 2023-2025, success rate: 15.6%
+– Key technologies for the intelligent configuration of radio environments using programmable
+metasurfaces. <\br>
+**Postdoctoral Writing Fellowship**, Faculty of Engineering, UNSW, 13.738K AUD, 2017 <\br>
+– Multi-panel MIMO for 5G mobile communications. <\br>
 
 Awards
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+1. Exemplary Reviewer for IEEE Wireless Communications Letters in 2017-2019. <\br>
+2. Exemplary Reviewer for IEEE Transactions on Communications in 2017. <\br>
+3. Rank 5th out of 334 teams (sole participant) in the online AI competition “AI-based Channel State Information Feedback” organized by IMT-2020(5G) and OPPO Mobile Telecommunications Corp., 2021. <\br>
+4. IEEE/CIC International Conference on Communications in China, Best Paper Award, 2016. <\br>
