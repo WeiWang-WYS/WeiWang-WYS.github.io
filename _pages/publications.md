@@ -5,6 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+Submitted Journal Manuscripts
+------
+[S1] **W. Wang**, B.-C. Zhu, Y.-M. Huang, and W. Zhang, “Amplitude-constrained constellation and reflection pattern designs for directional backscatter communications using programmable metasurface,” under 2nd round review, online available at
+https://arxiv.org/abs/2203.03863
+[S2] **W. Wang** and W. Zhang, “Model-free configuration of intelligent reflecting surfaces: Towards pervasive adaptability and enhanced robustness,” under revision.
+[S3] S.-M. Yan, J. Ren, **W. Wang**, L.-M.Sun, W. Zhang, and Q. Yu, “A survey of adversarial attack and defense methods for malware classification in cyber security,” under 2nd round review
+
 Journal Papers
 ------
 [J11] **W. Wang** and W. Zhang, “[Intelligent reflecting surface configurations for smart radio using deep reinforcement learning](https://ieeexplore.ieee.org/document/9794416),” ***IEEE Journal on Selected Areas in Communications***, vol. 40, no, 8, pp. 2335-2346, Aug. 2022. [[**Code**](https://github.com/WeiWang-WYS/IRSconfigurationDRL)] <br>
