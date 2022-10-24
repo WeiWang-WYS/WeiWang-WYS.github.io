@@ -26,7 +26,7 @@ self-cluster, auto-encode, and auto-decode the massive data of wireless channels
 Embracing localization with mmWave communications to build the dual-function (positioning
 & communications) infrastructures for urban IoT. <br>
 
-Services
+Academic Services
 ======
 - **Editor**: *[IEEE Wireless Communications Letters](https://www.comsoc.org/publications/journals/ieee-wcl/ieee-wireless-communications-letters-editorial-board)*, 2020-Present <br>
 - **Symposium Co-Chair**: [*Signal Processing for Communications (SPC) Symposium*](https://iccc2021.ieee-iccc.org/committee/symposium-co-chairs/), IEEE/CIC
