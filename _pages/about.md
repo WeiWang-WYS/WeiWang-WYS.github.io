@@ -41,14 +41,14 @@ Projects
 - **Natural Science Foundation of China Project For Young Researcher**, 300K RMB, 2023-2025, success rate: 15.6%. <br>
 - **Postdoctoral Writing Fellowship**, Faculty of Engineering, UNSW, 13.738K AUD, 2017. <br>
 
-Teaching
+Teaching Experience
 ======
-- **Lecture** (UNSW) Coding and Information Theory 2018 <br>
-- Tutorial (UNSW) Digital Modulation & Coding 2019-2020 <br> 
-- Tutorial (UNSW) Electrical Circuit Fundamentals 2021 <br>
-- Lab Demonstration (UNSW) Analog and Digital Communications S2 2015 <br>
-- Lab Demonstration (UNSW) Digital Modulation & Coding S1 2016 − 2019 <br>
-- Online Lab Design and Demonstration (UNSW) Digital Modulation & Coding S1 2019 − 2021 <br>
+- **Lecture** (UNSW) Coding and Information Theory, 2018 <br>
+- **Tutorial** (UNSW) Digital Modulation & Coding, 2019-2020 <br> 
+- **Tutorial** (UNSW) Electrical Circuit Fundamentals, 2021 <br>
+- **Lab Demonstration** (UNSW) Analog and Digital Communications, S2 2015 <br>
+- **Lab Demonstration** (UNSW) Digital Modulation & Coding, S1 2016 − 2019 <br>
+- **Online Lab Design and Demonstration** (UNSW) Digital Modulation & Coding, S1 2019 − 2021 <br>
 - 
 Awards
 ======
