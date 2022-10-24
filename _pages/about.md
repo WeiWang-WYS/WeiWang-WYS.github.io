@@ -43,7 +43,7 @@ Projects
 
 Teaching
 ======
-- **Lecture (UNSW)** Coding and Information Theory 2018 <br>
+- **Lecture** (UNSW) Coding and Information Theory 2018 <br>
 - Tutorial (UNSW) Digital Modulation & Coding 2019-2020 <br> 
 - Tutorial (UNSW) Electrical Circuit Fundamentals 2021 <br>
 - Lab Demonstration (UNSW) Analog and Digital Communications S2 2015 <br>
