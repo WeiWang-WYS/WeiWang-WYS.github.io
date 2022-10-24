@@ -9,7 +9,7 @@ redirect_from:
 ---
 Short Bio
 ======
-Wei Wang is currently a senior research scientist (equivalent to associate professor) with the Peng Cheng Laboratory, Shenzhen, China. He received the B.S. degree from Central South University, Changsha, China in 2010, the M.S. degree from Southeast University, Nanjing, China in 2013, and the Ph.D. degree from the University of New South Wales, Sydney, Australia in 2017. From 2018 to 2021, he was a Post-Doctoral Research Fellow with the School of Electrical Engineering and Telecommunications, the University of New South Wales, Sydney, Australia. He serves as an Editor of IEEE Wireless Communications Letters. He received IEEE Wireless Communications Letters Exemplary Reviewer Award from 2017 to 2019, IEEE Transactions on Communications Exemplary Reviewer Award in 2017, and the Best Paper Award for IEEE/CIC International Conference on Communications in China in 2016.
+Wei Wang is currently a senior research scientist (equivalent to associate professor) with the Peng Cheng Laboratory, Shenzhen, China. He received the B.S. degree from Central South University, Changsha, China in 2010, the M.S. degree from Southeast University, Nanjing, China in 2013, and the Ph.D. degree from the University of New South Wales, Sydney, Australia in 2017. From 2018 to 2021, he was a Post-Doctoral Research Fellow with the School of Electrical Engineering and Telecommunications, the University of New South Wales, Sydney, Australia. He serves as an Editor of IEEE Wireless Communications Letters.
 
 Research Interests
 ======
@@ -26,6 +26,15 @@ self-cluster, auto-encode, and auto-decode the massive data of wireless channels
 Embracing localization with mmWave communications to build the dual-function (positioning
 & communications) infrastructures for urban IoT. <br>
 
+Services
+======
+- **Editor**: *IEEE Wireless Communications Letters*, 2020-Present <br>
+- **Symposium Co-Chair**: [Signal Processing for Communications (SPC) Symposium](https://iccc2021.ieee-iccc.org/committee/symposium-co-chairs/), IEEE/CIC
+International Conference on Communications in China, 28-30 Jul. 2021, Xiamen, China <br>
+- Regular reviewer for IEEE TWC, IEEE TCOM, IEEE JSTSP, IEEE TSP, IEEE TVT, IEEE WCL, IEEE CL, etc  <br>
+- TPC member for IEEE Globecom, IEEE ICC, IEEE VTC, IEEE ICCC, IEEE WCSP, IEEE APCC, etc  <br>
+
+
 
 Projects
 ======
@@ -36,7 +45,7 @@ metasurfaces. <br>
 Multi-panel MIMO for 5G mobile communications. <br>
 
 Awards
-------
+======
 - Exemplary Reviewer for IEEE Wireless Communications Letters in 2017-2019. <br>
 - Exemplary Reviewer for IEEE Transactions on Communications in 2017. <br>
 - IEEE/CIC International Conference on Communications in China, Best Paper Award, 2016. <br>
