@@ -49,7 +49,7 @@ Teaching Experience
 - **Lab Demonstration** (UNSW) Analog and Digital Communications, S2 2015 <br>
 - **Lab Demonstration** (UNSW) Digital Modulation & Coding, S1 2016 − 2019 <br>
 - **Online Lab Design and Demonstration** (UNSW) Digital Modulation & Coding, S1 2019 − 2021 <br>
-- 
+
 Awards
 ======
 - Exemplary Reviewer for IEEE Wireless Communications Letters in 2017-2019. <br>
