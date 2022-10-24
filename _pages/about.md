@@ -26,6 +26,14 @@ self-cluster, auto-encode, and auto-decode the massive data of wireless channels
 Embracing localization with mmWave communications to build the dual-function (positioning
 & communications) infrastructures for urban IoT. <br>
 
+
+
+Research Projects
+======
+- **Natural Science Foundation of China Project For Young Researcher**, 300K RMB, 2023-2025, success rate: 15.6%. <br>
+- **Postdoctoral Writing Fellowship**, Faculty of Engineering, UNSW, 13.738K AUD, 2017. <br>
+
+
 Academic Services
 ======
 - **Editor**: *[IEEE Wireless Communications Letters](https://www.comsoc.org/publications/journals/ieee-wcl/ieee-wireless-communications-letters-editorial-board)*, 2020-Present <br>
@@ -34,12 +42,6 @@ International Conference on Communications in China, 28-30 Jul. 2021, Xiamen, Ch
 - **Regular reviewer** for IEEE TWC, IEEE TCOM, IEEE JSTSP, IEEE TSP, IEEE TVT, IEEE WCL, IEEE CL, etc.  <br>
 - **TPC member** for IEEE Globecom, IEEE ICC, IEEE VTC, IEEE ICCC, IEEE WCSP, IEEE APCC, etc.  <br>
 
-
-
-Projects
-======
-- **Natural Science Foundation of China Project For Young Researcher**, 300K RMB, 2023-2025, success rate: 15.6%. <br>
-- **Postdoctoral Writing Fellowship**, Faculty of Engineering, UNSW, 13.738K AUD, 2017. <br>
 
 Teaching Experience
 ======
