@@ -38,10 +38,10 @@ International Conference on Communications in China, 28-30 Jul. 2021, Xiamen, Ch
 
 Projects
 ======
-- **Natural Science Foundation of China Project For Young Researcher**, 300K RMB, 2023-2025, success rate: 15.6% 
+- **Natural Science Foundation of China Project For Young Researcher**, 300K RMB, 2023-2025, success rate: 15.6%. <br>
 Key technologies for the intelligent configuration of radio environments using programmable
 metasurfaces. <br>
-- **Postdoctoral Writing Fellowship**, Faculty of Engineering, UNSW, 13.738K AUD, 2017 <br>
+- **Postdoctoral Writing Fellowship**, Faculty of Engineering, UNSW, 13.738K AUD, 2017. <br>
 Multi-panel MIMO for 5G mobile communications. <br>
 
 Awards
