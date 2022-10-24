@@ -7,10 +7,9 @@ author_profile: true
 
 Submitted Journal Manuscripts
 ------
-[S1] **W. Wang**, B.-C. Zhu, Y.-M. Huang, and W. Zhang, “Amplitude-constrained constellation and reflection pattern designs for directional backscatter communications using programmable metasurface,” under 2nd round review, online available at
-https://arxiv.org/abs/2203.03863
-[S2] **W. Wang** and W. Zhang, “Model-free configuration of intelligent reflecting surfaces: Towards pervasive adaptability and enhanced robustness,” under revision.
-[S3] S.-M. Yan, J. Ren, **W. Wang**, L.-M.Sun, W. Zhang, and Q. Yu, “A survey of adversarial attack and defense methods for malware classification in cyber security,” under 2nd round review
+[S1] **W. Wang**, B.-C. Zhu, Y.-M. Huang, and W. Zhang, “[Amplitude-constrained constellation and reflection pattern designs for directional backscatter communications using programmable metasurface](https://arxiv.org/abs/2203.03863),” under 2nd round review. <br>
+[S2] **W. Wang** and W. Zhang, “Model-free configuration of intelligent reflecting surfaces: Towards pervasive adaptability and enhanced robustness,” under revision. <br>
+[S3] S.-M. Yan, J. Ren, **W. Wang**, L.-M.Sun, W. Zhang, and Q. Yu, “A survey of adversarial attack and defense methods for malware classification in cyber security,” under 2nd round review. <br>
 
 Journal Papers
 ------
