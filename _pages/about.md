@@ -45,12 +45,13 @@ International Conference on Communications in China, 28-30 Jul. 2021, Xiamen, Ch
 
 Teaching Experience
 ======
-- **Lecture** (UNSW) Coding and Information Theory, 2018 <br>
-- **Tutorial** (UNSW) Digital Modulation & Coding, 2019-2020 <br> 
+- **Lecture** (Lecture convenor, UNSW), Coding and Information Theory, 2018 <br>
+- **Lecture** (Substitute lecture convenor, UNSW), Digital Modulation & Coding, Coding and Information Theory, 2019-2020 <br> 
+- **Tutorial** (UNSW), Digital Modulation & Coding, 2019-2020 <br> 
 - **Tutorial** (UNSW) Electrical Circuit Fundamentals, 2021 <br>
-- **Lab Demonstration** (UNSW) Analog and Digital Communications, 2015 <br>
-- **Lab Demonstration** (UNSW) Digital Modulation & Coding, 2016 − 2019 <br>
-- **Online Lab Design and Demonstration** (UNSW) Digital Modulation & Coding, 2019 − 2021 <br>
+- **Lab Demonstration** (UNSW), Analog and Digital Communications, 2015 <br>
+- **Lab Demonstration** (UNSW), Digital Modulation & Coding, 2016 − 2019 <br>
+- **Online Lab Design and Demonstration** (UNSW) Digital Modulation & Coding, 2020 − 2021 <br>
 
 Awards
 ======
