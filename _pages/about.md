@@ -13,7 +13,6 @@ Short Bio
 
 Research Interests
 ======
-<p style="text-align:justify">
 - **Intelligent reflecting surfaces assisted wireless communications** <br>
 Creating smart radio environment using intelligent reflecting surfaces and reinforcement
 learning technologies.<br>
@@ -25,7 +24,7 @@ Exploiting the spatial signatures of wireless channels using deep learning techn
 self-cluster, auto-encode, and auto-decode the massive data of wireless channels.<br>
 - **Joint localization and millimeter wave communications** <br>
 Embracing localization with mmWave communications to build the dual-function (positioning
-& communications) infrastructures for urban IoT.</p> <br>
+& communications) infrastructures for urban IoT. <br>
 
 
 
