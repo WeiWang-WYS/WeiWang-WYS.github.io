@@ -86,7 +86,7 @@ author:
   location         : # "Location"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : #"https://scholar.google.com/citations?&user=Vndl1SkAAAAJ&view_op=list_works&sortby=pubdate"
   email            : "wei_wang@ieee.org"
   researchgate     : "https://www.researchgate.net/profile/Wei-Wang-625"
   uri              :
