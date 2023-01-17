@@ -58,4 +58,4 @@ Awards
 - Exemplary Reviewer for IEEE Wireless Communications Letters in 2017-2019. <br>
 - Exemplary Reviewer for IEEE Transactions on Communications in 2017. <br>
 - IEEE/CIC International Conference on Communications in China, Best Paper Award, 2016. <br>
-- Rank 5th out of 334 teams in the online AI competition “[AI-based Channel State Information Feedback](https://www.datafountain.cn/competitions/503)” organized by IMT-2020(5G) and OPPO Mobile Telecommunications Corp., 2021. <br>
+- Rank 5th out of 334 teams （sole participant of the team） in the online AI competition “[AI-based Channel State Information Feedback](https://www.datafountain.cn/competitions/503)” organized by IMT-2020(5G) and OPPO Mobile Telecommunications Corp., 2021. <br>
