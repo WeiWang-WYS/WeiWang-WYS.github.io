@@ -30,7 +30,7 @@ Embracing localization with mmWave communications to build the dual-function (po
 
 Research Projects
 ======
-- **Natural Science Foundation of China Project For Young Researcher**, 300K RMB, 2023-2025, success rate: 15.6%. <br>
+- **Natural Science Foundation of China Project For Young Researcher**, 300K RMB, 2023-2025. <br>
 - **Postdoctoral Writing Fellowship**, Faculty of Engineering, UNSW, 13.738K AUD, 2017. <br>
 
 
