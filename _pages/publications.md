@@ -12,7 +12,7 @@ Submitted Journal Manuscripts
 
 Journal Papers
 ------
-[J13] **W. Wang**, W. Zhang, and H. Xiong, “Model-free configuration of intelligent reflecting surfaces: Towards pervasive adaptability and enhanced robustness,” ***IEEE Wireless Communications***, to appear. <br>
+[J13] **W. Wang**, W. Zhang, and H. Xiong, “Model-free configuration of intelligent reflecting surfaces: Towards pervasive adaptability and enhanced robustness,” ***IEEE Wireless Communications Magazine***, to appear. <br>
 [J12] S.-M. Yan, J. Ren, **W. Wang**, L.-M.Sun, W. Zhang, and Q. Yu, “[A survey of adversarial attack and defense methods for malware classification in cyber security](https://ieeexplore.ieee.org/document/9964330),” ***IEEE Communications Surveys and Tutorials***, DOI: 10.1109/COMST.2022.3225137. <br>
 [J11] **W. Wang** and W. Zhang, “[Intelligent reflecting surface configurations for smart radio using deep reinforcement learning](https://ieeexplore.ieee.org/document/9794416),” ***IEEE Journal on Selected Areas in Communications***, vol. 40, no, 8, pp. 2335-2346, Aug. 2022. [[**Code**](https://github.com/WeiWang-WYS/IRSconfigurationDRL)] <br>
 [J10] **W. Wang** and W. Zhang, “[Jittering effects analysis and beam training design for UAV millimeter wave communications](https://ieeexplore.ieee.org/document/9573459),” ***IEEE Transactions on Wireless Communications***, vol. 21, no. 5, pp. 3131-3146, May 2022. <br>
