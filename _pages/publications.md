@@ -25,6 +25,7 @@ Journal Papers
 [J3] **W. Wang** and W. Zhang, “[Signal shaping and precoding for MIMO systems using lattice codes](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7435312),” ***IEEE Transactions on Wireless Communications***, vol. 15, no 7, pp. 4625-4634, July 2016. <br>
 [J2] S.-M. Yan, J. Ren, **W. Wang**, L.-M.Sun, W. Zhang, and Q. Yu, “[A survey of adversarial attack and defense methods for malware classification in cyber security](https://ieeexplore.ieee.org/document/9964330),” ***IEEE Communications Surveys and Tutorials***, DOI: 10.1109/COMST.2022.3225137. <br>
 [J1] C. Zhang, W. Z. Zhang, **W. Wang**, L. Yang, and W. Zhang, “[Research challenges and opportunities of UAV millimeter-wave communications](https://ieeexplore.ieee.org/document/8641426/),” ***IEEE Wireless Communications Magazine***, vol. 26, no. 1, pp. 58-62, Feb. 2019. <br>
+
 Conference Papers
 ------
 [C10] **W. Wang** and W. Zhang, “Deep reinforcement learning empowered smart control of intelligent reflecting surface,” ***Proc. IEEE Global Communications Conference (GLOBECOM 2022)***, Rio de Janeiro, Brazil. <br>
