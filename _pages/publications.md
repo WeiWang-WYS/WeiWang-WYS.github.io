@@ -28,9 +28,9 @@ Journal Papers
 
 Conference Papers
 ------
-[C10] **W. Wang** and W. Zhang, “Deep reinforcement learning empowered smart control of intelligent reflecting surface,” ***Proc. IEEE Global Communications Conference (GLOBECOM 2022)***, Rio de Janeiro, Brazil. <br>
-[C9] H. Wu, Z. Shao, G. Cheng, X. Hu, J. Ren, and **W. Wang**, “Detecting slow port scans of long duration in high-speed networks,” ***Proc. IEEE Global Communications Conference (GLOBECOM 2022)***, Rio de Janeiro, Brazil. <br>
-[C8] W. Z. Zhang and **W. Wang**, “IRS-aided indoor millimeter-wave system: Near-field codebook design,” ***IEEE Global Communications Conference (GLOBECOM 2022) Workshop***, Rio de Janeiro, Brazil. <br>
+[C10] **W. Wang** and W. Zhang, “[Deep reinforcement learning empowered smart control of intelligent reflecting surface](https://ieeexplore.ieee.org/document/10000897/),” ***Proc. IEEE Global Communications Conference (GLOBECOM 2022)***, Rio de Janeiro, Brazil. <br>
+[C9] H. Wu, Z. Shao, G. Cheng, X. Hu, J. Ren, and **W. Wang**, “[Detecting slow port scans of long duration in high-speed networks](https://ieeexplore.ieee.org/document/10001708/),” ***Proc. IEEE Global Communications Conference (GLOBECOM 2022)***, Rio de Janeiro, Brazil. <br>
+[C8] W. Z. Zhang and **W. Wang**, “[IRS-aided indoor millimeter-wave system: Near-field codebook design](https://ieeexplore.ieee.org/document/10008623/),” ***IEEE Global Communications Conference (GLOBECOM 2022) Workshop***, Rio de Janeiro, Brazil. <br>
 [C7] **W. Wang**, W. Zhang, Y. Li, and J. Lu, “[Channel estimation and hybrid precoding for multipanel millimeter wave MIMO](https://ieeexplore.ieee.org/document/8422137),” ***IEEE Int. Conf. Commun. (ICC 2018)***, Kansas, USA, May 20-24, 2018. <br>
 [C6] **W. Wang** and W. Zhang, “[Antenna subset selection for Line-of-Sight millimeter wave massive MIMO systems](https://ieeexplore.ieee.org/document/8304064/),” ***Proc. the 23rd Asia Pacific Conference on Communications (APCC 2017)***, Perth, Australia, Dec. 11-13, 2017. <br>
 [C5] **W. Wang** and W. Zhang, “[Optimal signal constellation for downlink two-user NOMA](http://ieeexplore.ieee.org/document/8304063/),” ***Proc. the 23rd Asia Pacific Conference on Communications (APCC 2017)***, Perth, Australia, Dec. 11-13, 2017. <br>
