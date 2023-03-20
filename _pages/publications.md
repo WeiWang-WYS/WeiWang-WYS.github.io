@@ -5,11 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-#Submitted Journal Manuscripts
-#------
-
-
-
 Journal Papers
 ------
 [J14] **W. Wang**, B.-C. Zhu, Y.-M. Huang, and W. Zhang, “[Amplitude-constrained constellation and reflection pattern designs for directional backscatter communications using programmable metasurface],”  ***IEEE Transactions on Wireless Communications***, to appear. <br>
