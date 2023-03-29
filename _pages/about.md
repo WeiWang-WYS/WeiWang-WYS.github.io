@@ -61,4 +61,4 @@ Awards
 - Rank 5th out of 334 teams （sole participant of the team） in the online AI competition “[AI-based Channel State Information Feedback](https://www.datafountain.cn/competitions/503)” organized by IMT-2020(5G) and OPPO Mobile Telecommunications Corp., 2021. <br>
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<span id="busuanzi_container_site_pv"><span id="busuanzi_value_site_pv"></span>次</span>
+<span id="busuanzi_container_site_pv">Visit number: <span id="busuanzi_value_site_pv"></span></span>
