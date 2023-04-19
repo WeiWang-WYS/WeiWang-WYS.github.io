@@ -7,7 +7,7 @@ author_profile: true
 
 Journal Papers
 ------
-[J15] S. Wang, K.-H. Zhang, B.-C. Zhu, **W. Wang**, Z.-C. Zhang, “Visible light communications for unmanned aerial vehicle: Channel mdeling and experimental validation,” *IEEE Communications Letters*, to appear. <br>
+[J15] S. Wang, K.-H. Zhang, B.-C. Zhu, **W. Wang**, Z.-C. Zhang, “[Visible light communications for unmanned aerial vehicle: Channel mdeling and experimental validation](https://ieeexplore.ieee.org/document/10103523),” *IEEE Communications Letters*, to appear. <br>
 [J14] **W. Wang**, B.-C. Zhu, Y.-M. Huang, and W. Zhang, “[Amplitude-constrained constellation and reflection pattern designs for directional backscatter communications using programmable metasurface](https://ieeexplore.ieee.org/document/10097675),”  *IEEE Transactions on Wireless Communications*, DOI: 10.1109/TWC.2023.3263850. <br>
 [J13] **W. Wang**, W. Zhang, and H. Xiong, “[Model-free configuration of intelligent reflecting surfaces: Towards pervasive adaptability and enhanced robustness](https://ieeexplore.ieee.org/document/10049303),” *IEEE Wireless Communications Magazine*, DOI: 10.1109/MWC.013.2200416. <br>
 [J12] S.-M. Yan, J. Ren, **W. Wang**, L.-M.Sun, W. Zhang, and Q. Yu, “[A survey of adversarial attack and defense methods for malware classification in cyber security](https://ieeexplore.ieee.org/document/9964330),” *IEEE Communications Surveys and Tutorials*, vol. 25, no. 1, pp. 467-496, Firstquarter 2023. <br>
