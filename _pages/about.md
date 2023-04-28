@@ -62,5 +62,4 @@ Awards
 - IEEE/CIC International Conference on Communications in China, Best Paper Award, 2016. 
 
 
-<a href='http://www.freevisitorcounters.com'></a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=67839a3e89e6d6ba3f62d40df49a175868aee469'></script>
-<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1020919/t/5"></script>
+
