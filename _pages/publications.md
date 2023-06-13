@@ -7,7 +7,7 @@ author_profile: true
 
 Journal Papers
 ------
-[J18] W. Wang, W. Zhang, “[Signal processing for RIS-assisted millimeter wave/terahertz communications](https://academic.oup.com/nsr/advance-article-abstract/doi/10.1093/nsr/nwad168/7190655)," National Science Review, DOI: 10.1093/nsr/nwad168
+[J18] W. Wang, W. Zhang, “[Signal processing for RIS-assisted millimeter wave/terahertz communications](https://academic.oup.com/nsr/advance-article-abstract/doi/10.1093/nsr/nwad168/7190655)," National Science Review, DOI: 10.1093/nsr/nwad168. <br>
 [J17] H. Wu, Z. Shao, F. Yang, G. Cheng, X. Hu, J. Ren, and **W. Wang**, “[PD-CPS: A practical scheme for detecting covert port scans in high-speed networks](https://doi.org/10.1016/j.comnet.2023.109825),”
 *Computer Networks*, DOI: 10.1016/j.comnet.2023.109825. <br>
 [J16] W.-Z. Zhang, **W. Wang**, and W. Zhang, “[Channel training for RIS-aided indoor terahertz MIMO systems](https://ieeexplore.ieee.org/abstract/document/10123013)”, *IEEE Wireless Communications Letters*, DOI: 10.1109/LWC.2023.3275283. <br>
