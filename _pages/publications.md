@@ -7,12 +7,12 @@ author_profile: true
 
 Journal Papers
 ------
-[J18] **W. Wang**, W. Zhang, “[Signal processing for RIS-assisted millimeter wave/terahertz communications](https://academic.oup.com/nsr/advance-article-abstract/doi/10.1093/nsr/nwad168/7190655)," National Science Review, DOI: 10.1093/nsr/nwad168. <br>
-[J17] H. Wu, Z. Shao, F. Yang, G. Cheng, X. Hu, J. Ren, and **W. Wang**, “[PD-CPS: A practical scheme for detecting covert port scans in high-speed networks](https://doi.org/10.1016/j.comnet.2023.109825),”
-*Computer Networks*, DOI: 10.1016/j.comnet.2023.109825. <br>
-[J16] W.-Z. Zhang, **W. Wang**, and W. Zhang, “[Channel training for RIS-aided indoor terahertz MIMO systems](https://ieeexplore.ieee.org/abstract/document/10123013)”, *IEEE Wireless Communications Letters*, DOI: 10.1109/LWC.2023.3275283. <br>
-[J15] **W. Wang**, B.-C. Zhu, Y.-M. Huang, and W. Zhang, “[Amplitude-constrained constellation and reflection pattern designs for directional backscatter communications using programmable metasurface](https://ieeexplore.ieee.org/document/10097675),”  *IEEE Transactions on Wireless Communications*, DOI: 10.1109/TWC.2023.3263850. <br>
-[J14] **W. Wang**, W. Zhang, and H. Xiong, “[Model-free configuration of intelligent reflecting surfaces: Towards pervasive adaptability and enhanced robustness](https://ieeexplore.ieee.org/document/10049303),” *IEEE Wireless Communications*, DOI: 10.1109/MWC.013.2200416. <br>
+[J18] W.-Z. Zhang, **W. Wang**, and W. Zhang, “[Channel training for RIS-aided indoor terahertz MIMO systems](https://ieeexplore.ieee.org/abstract/document/10123013)”, *IEEE Wireless Communications Letters*, DOI: 10.1109/LWC.2023.3275283. <br>
+[J17] **W. Wang**, B.-C. Zhu, Y.-M. Huang, and W. Zhang, “[Amplitude-constrained constellation and reflection pattern designs for directional backscatter communications using programmable metasurface](https://ieeexplore.ieee.org/document/10097675),”  *IEEE Transactions on Wireless Communications*, DOI: 10.1109/TWC.2023.3263850. <br>
+[J16] **W. Wang**, W. Zhang, and H. Xiong, “[Model-free configuration of intelligent reflecting surfaces: Towards pervasive adaptability and enhanced robustness](https://ieeexplore.ieee.org/document/10049303),” *IEEE Wireless Communications*, DOI: 10.1109/MWC.013.2200416. <br>
+[J15] **W. Wang**, W. Zhang, “[Signal processing for RIS-assisted millimeter wave/terahertz communications](https://academic.oup.com/nsr/advance-article-abstract/doi/10.1093/nsr/nwad168/7190655)," National Science Review, vol. 10, no. 8, Aug. 2023, nwad168. <br>
+[J14] H. Wu, Z. Shao, F. Yang, G. Cheng, X. Hu, J. Ren, and **W. Wang**, “[PD-CPS: A practical scheme for detecting covert port scans in high-speed networks](https://doi.org/10.1016/j.comnet.2023.109825),”
+*Computer Networks*, vol. 231, Jul. 2023. <br>
 [J13] S. Wang, K.-H. Zhang, B.-C. Zhu, **W. Wang**, and Z.-C. Zhang, “[Visible light communications for unmanned aerial vehicle: Channel mdeling and experimental validation](https://ieeexplore.ieee.org/document/10103523),” *IEEE Communications Letters*, vol. 27, no. 6, pp. 1530-1534, Jun. 2023. <br>
 [J12] S.-M. Yan, J. Ren, **W. Wang**, L.-M.Sun, W. Zhang, and Q. Yu, “[A survey of adversarial attack and defense methods for malware classification in cyber security](https://ieeexplore.ieee.org/document/9964330),” *IEEE Communications Surveys and Tutorials*, vol. 25, no. 1, pp. 467-496, Firstquarter 2023. <br>
 [J11] **W. Wang** and W. Zhang, “[Intelligent reflecting surface configurations for smart radio using deep reinforcement learning](https://ieeexplore.ieee.org/document/9794416),” *IEEE Journal on Selected Areas in Communications*, vol. 40, no, 8, pp. 2335-2346, Aug. 2022. [[**Code**](https://github.com/WeiWang-WYS/IRSconfigurationDRL)] <br>
