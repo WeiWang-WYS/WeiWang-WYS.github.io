@@ -36,7 +36,7 @@ Research Projects
 
 Academic Services
 ======
-- **Editor**: *[IEEE Wireless Communications Letters](https://www.comsoc.org/publications/journals/ieee-wcl/ieee-wireless-communications-letters-editorial-board)*, 2020-2023 <br>
+- **Editor**: *[IEEE Wireless Communications Letters](https://www.comsoc.org/publications/journals/ieee-wcl/ieee-wireless-communications-letters-editorial-board)*, 2019-2023 <br>
 - **Symposium Co-Chair**: [*Signal Processing for Communications (SPC) Symposium*](https://iccc2021.ieee-iccc.org/committee/symposium-co-chairs/), IEEE/CIC
 International Conference on Communications in China, 28-30 Jul. 2021, Xiamen, China <br>
 - **Regular reviewer** for IEEE TWC, IEEE TCOM, IEEE JSTSP, IEEE TSP, IEEE TVT, IEEE WCL, IEEE CL, etc.  <br>
