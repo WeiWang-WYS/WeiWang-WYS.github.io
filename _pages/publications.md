@@ -7,6 +7,7 @@ author_profile: true
 
 Journal Papers
 ------
+[J19] **W. Wang**, B. Yang, and W. Zhang, “Deep learning-based radio map for MIMO-OFDM downlink precoding,”  *Journal of Communications and Information Networks*, Sept. 2023. <br>
 [J18] W.-Z. Zhang, **W. Wang**, and W. Zhang, “[Channel training for RIS-aided indoor terahertz MIMO systems](https://ieeexplore.ieee.org/abstract/document/10123013)”, *IEEE Wireless Communications Letters*, DOI: 10.1109/LWC.2023.3275283. <br>
 [J17] **W. Wang**, B.-C. Zhu, Y.-M. Huang, and W. Zhang, “[Amplitude-constrained constellation and reflection pattern designs for directional backscatter communications using programmable metasurface](https://ieeexplore.ieee.org/document/10097675),”  *IEEE Transactions on Wireless Communications*, DOI: 10.1109/TWC.2023.3263850. <br>
 [J16] **W. Wang**, W. Zhang, and H. Xiong, “[Model-free configuration of intelligent reflecting surfaces: Towards pervasive adaptability and enhanced robustness](https://ieeexplore.ieee.org/document/10049303),” *IEEE Wireless Communications*, DOI: 10.1109/MWC.013.2200416. <br>
