@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Journal Papers
+Journal Papers 
 ------
 [J19] **W. Wang**, B. Yang, and W. Zhang, “Deep learning-based radio map for MIMO-OFDM downlink precoding,”  *Journal of Communications and Information Networks*, Sept. 2023. <br>
 [J18] W.-Z. Zhang, **W. Wang**, and W. Zhang, “[Channel training for RIS-aided indoor terahertz MIMO systems,](https://ieeexplore.ieee.org/abstract/document/10123013)” *IEEE Wireless Communications Letters*, DOI: 10.1109/LWC.2023.3275283. <br>
