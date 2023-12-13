@@ -7,8 +7,8 @@ author_profile: true
 
 Journal Papers 
 ------
-[J20] **W. Wang**, B.-C. Zhu, Y.-M. Huang, and W. Zhang, “[Amplitude-constrained constellation and reflection pattern designs for directional backscatter communications using programmable metasurface](https://ieeexplore.ieee.org/document/10097675),”  *IEEE Transactions on Wireless Communications*, vol. 22, no. 11, pp. 8498-8511, Nov. 2023. <br>
-[J19] **W. Wang**, W. Zhang, and H. Xiong, “[Model-free configuration of intelligent reflecting surfaces: Towards pervasive adaptability and enhanced robustness](https://ieeexplore.ieee.org/document/10049303),” *IEEE Wireless Communications*, DOI: 10.1109/MWC.013.2200416. <br>
+[J20] **W. Wang**, W. Zhang, and H. Xiong, “[Model-free configuration of intelligent reflecting surfaces: Towards pervasive adaptability and enhanced robustness](https://ieeexplore.ieee.org/document/10049303),” *IEEE Wireless Communications*, DOI: 10.1109/MWC.013.2200416. <br>
+[J19] **W. Wang**, B.-C. Zhu, Y.-M. Huang, and W. Zhang, “[Amplitude-constrained constellation and reflection pattern designs for directional backscatter communications using programmable metasurface](https://ieeexplore.ieee.org/document/10097675),”  *IEEE Transactions on Wireless Communications*, vol. 22, no. 11, pp. 8498-8511, Nov. 2023. <br>
 [J18] **W. Wang**, B. Yang, and W. Zhang, “[Deep learning-based radio map for MIMO-OFDM downlink precoding](https://ieeexplore.ieee.org/document/10272348),”  *Journal of Communications and Information Networks*, vol. 8, no. 3, pp. 203-211, Sept. 2023. <br>
 [J17] X.-T. Guo, J. Ren, J.-G. Zheng, J.-X. Liao, C. Sun, H.-X. Zhu, T.-Y. Song, S. Wang, and **W. Wang**, “[Automated penetration testing with fine-grained control through deep reinforcement learning](https://ieeexplore.ieee.org/document/10272349),” *Journal of Communications and Information Networks*, vol. 8, no. 3, pp. 212-220, Sept. 2023. <br>
 [J16] W.-Z. Zhang, **W. Wang**, and W. Zhang, “[Channel training for RIS-aided indoor terahertz MIMO systems,](https://ieeexplore.ieee.org/abstract/document/10123013)” *IEEE Wireless Communications Letters*, vol. 12, no. 8, pp. 1384-1388, Aug. 2023. <br>
