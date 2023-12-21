@@ -38,9 +38,9 @@ Research Projects
 Academic Services
 ======
 - **Editor**: *[IEEE Wireless Communications Letters](https://www.comsoc.org/publications/journals/ieee-wcl/ieee-wireless-communications-letters-editorial-board)*, 2019-2023 <br>
-- **Symposium Co-Chair**: [*Signal Processing for Communications (SPC) Symposium*](https://iccc2021.ieee-iccc.org/committee/symposium-co-chairs/), IEEE/CIC
+- **Symposium co-chair**: [*Signal Processing for Communications (SPC) Symposium*](https://iccc2021.ieee-iccc.org/committee/symposium-co-chairs/), IEEE/CIC
 International Conference on Communications in China, 28-30 Jul. 2021, Xiamen, China <be>
-- **Track Co-Chair**: AI for wireless communication track in [National Artificial Intelligent Challenge](https://naic.pcl.ac.cn/landingpage/2023/index.html#/) (NAIC), 2021-2023. 
+- **Track co-chair**: AI for wireless communication track in [National Artificial Intelligent Challenge](https://naic.pcl.ac.cn/landingpage/2023/index.html#/) (NAIC), 2021-2023. 
 - **Regular reviewer** for IEEE TWC, IEEE TCOM, IEEE JSTSP, IEEE TSP, IEEE TVT, IEEE WCL, IEEE CL, etc.  <br>
 - **TPC member** for IEEE Globecom, IEEE ICC, IEEE VTC, IEEE ICCC, IEEE WCSP, IEEE APCC, etc.  <br>
 
@@ -51,9 +51,9 @@ Teaching Experience
 - **Lecture** (Substitute lecture convenor, UNSW), Digital Modulation & Coding, Coding and Information Theory, 2019-2020 <br> 
 - **Tutorial** (UNSW), Digital Modulation & Coding, 2019-2020 <br> 
 - **Tutorial** (UNSW) Electrical Circuit Fundamentals, 2021 <br>
-- **Lab Demonstration** (UNSW), Analog and Digital Communications, 2015 <br>
-- **Lab Demonstration** (UNSW), Digital Modulation & Coding, 2016 − 2019 <br>
-- **Online Lab Design and Demonstration** (UNSW) Digital Modulation & Coding, 2020 − 2021 <br>
+- **Lab demonstration** (UNSW), Analog and Digital Communications, 2015 <br>
+- **Lab demonstration** (UNSW), Digital Modulation & Coding, 2016 − 2019 <br>
+- **Online lab design and demonstration** (UNSW) Digital Modulation & Coding, 2020 − 2021 <br>
 
 Awards
 ======
