@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**[NEWS]： We are organizing a workshop on "[Radio Map for 6G Communications](https://events.vtsociety.org/vtc2024-spring/conference-sessions/call-for-workshops/w8-radio-map-for-6g-communications/)" in VTC2024-Spring, Singapore.**
+**[NEWS]： We are organizing a workshop on "[Radio Map for 6G Communications](https://events.vtsociety.org/vtc2024-spring/conference-sessions/call-for-workshops/w8-radio-map-for-6g-communications/)" in VTC2024-Spring, Singapore. Workshop paper deadline: 18 January 2024. **
 
 Short Bio
 ======
