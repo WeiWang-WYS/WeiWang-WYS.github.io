@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 Short Bio
 ======
 <p style="text-align:justify">Wei Wang is currently a senior research scientist (equivalent to associate professor) with the Peng Cheng Laboratory, Shenzhen, China. He received the B.S. degree  (with the highest honor) from Central South University, Changsha, China in 2010, the M.S. degree from Southeast University, Nanjing, China in 2013, and the Ph.D. degree from the University of New South Wales, Sydney, Australia in 2017. From 2018 to 2021, he was a Post-Doctoral Research Fellow with the School of Electrical Engineering and Telecommunications, the University of New South Wales, Sydney, Australia.</p>
@@ -38,7 +39,8 @@ Academic Services
 ======
 - **Editor**: *[IEEE Wireless Communications Letters](https://www.comsoc.org/publications/journals/ieee-wcl/ieee-wireless-communications-letters-editorial-board)*, 2019-2023 <br>
 - **Symposium Co-Chair**: [*Signal Processing for Communications (SPC) Symposium*](https://iccc2021.ieee-iccc.org/committee/symposium-co-chairs/), IEEE/CIC
-International Conference on Communications in China, 28-30 Jul. 2021, Xiamen, China <br>
+International Conference on Communications in China, 28-30 Jul. 2021, Xiamen, China <be>
+- **Track co-chair**: AI for wireless communication track in [National Artificial Intelligent Challenge](https://naic.pcl.ac.cn/landingpage/2023/index.html#/) (NAIC), 2021-2023. 
 - **Regular reviewer** for IEEE TWC, IEEE TCOM, IEEE JSTSP, IEEE TSP, IEEE TVT, IEEE WCL, IEEE CL, etc.  <br>
 - **TPC member** for IEEE Globecom, IEEE ICC, IEEE VTC, IEEE ICCC, IEEE WCSP, IEEE APCC, etc.  <br>
 
@@ -55,6 +57,7 @@ Teaching Experience
 
 Awards
 ======
+- IEEE ComSoc Asia-Pacific Outstanding Young Researcher Award, 2023. 
 - Rank 5th out of 334 teams （sole participant of the team） in the online AI competition “[AI-based Channel State Information Feedback](https://www.datafountain.cn/competitions/503)” organized by IMT-2020(5G) Promotion Group and OPPO Mobile Telecommunications Corp., 2021. <br>
 - Exemplary Reviewer for IEEE Wireless Communications Letters in 2017-2019. <br>
 - Exemplary Reviewer for IEEE Transactions on Communications in 2017. <br>
