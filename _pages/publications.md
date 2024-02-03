@@ -7,8 +7,8 @@ author_profile: true
 
 Journal Papers 
 ------
-[J22] W. Chen, C. Liu, **W. Wang**, M. Peng, and W. Zhang, “Adaptive hybrid beamforming for UAV mmWave communications against asymmetric jitter,” IEEE Transactions on Wireless Communications, accepted for publication. <br>
-[J21] J. Yan, Y. Cui, **W. Wang**, “A three-level federated learning framework for CSI fingerprint-based indoor localization in multiple servers environment", *IEEE Communications Letters*, DOI: 10.1109/LCOMM.2024.3357694. <br>
+[J22] W. Chen, C. Liu, **W. Wang**, M. Peng, and W. Zhang, “Adaptive hybrid beamforming for UAV mmWave communications against asymmetric jitter,” *IEEE Transactions on Wireless Communications*, accepted for publication. <br>
+[J21] J. Yan, Y. Cui, **W. Wang**, “A three-level federated learning framework for CSI fingerprint-based indoor localization in multiple servers environment," *IEEE Communications Letters*, DOI: 10.1109/LCOMM.2024.3357694. <br>
 [J20] **W. Wang**, W. Zhang, and H. Xiong, “[Model-free configuration of intelligent reflecting surfaces: Towards pervasive adaptability and enhanced robustness](https://ieeexplore.ieee.org/document/10049303),” *IEEE Wireless Communications*, DOI: 10.1109/MWC.013.2200416. <br>
 [J19] **W. Wang**, B. Zhu, Y. Huang, and W. Zhang, “[Amplitude-constrained constellation and reflection pattern designs for directional backscatter communications using programmable metasurface](https://ieeexplore.ieee.org/document/10097675),”  *IEEE Transactions on Wireless Communications*, vol. 22, no. 11, pp. 8498-8511, Nov. 2023. <br>
 [J18] **W. Wang**, B. Yang, and W. Zhang, “[Deep learning-based radio map for MIMO-OFDM downlink precoding](https://ieeexplore.ieee.org/document/10272348),”  *Journal of Communications and Information Networks*, vol. 8, no. 3, pp. 203-211, Sept. 2023. <br>
