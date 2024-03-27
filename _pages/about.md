@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**<font color=red>News (2024-03-27)</font>**: 我目前有充足经费可以支持实习生、科研助理参与科研工作，欢迎感兴趣的同学直接与我联系。此外，欢迎基础扎实的同学申请鹏城博士专项录取名额。（I currently have sufficient funds to support interns and research assistants participating in research work, and I welcome interested students to contact me directly. Additionally, students with a solid foundation are encouraged to apply for Ph.D. admission.）
+**<font color=red>News (2024-03-27)</font>**: 我目前有充足经费可以支持实习生、科研助理参与科研工作，欢迎感兴趣的同学直接与我联系。此外，欢迎基础扎实的同学申请鹏城博士专项录取名额。（I currently have sufficient funds to support interns and research assistants participating in research work.  Interested students, please contact me directly. Additionally, students with a solid foundation are encouraged to apply for Ph.D. admission.）
 
 Short Bio
 ======
