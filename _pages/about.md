@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**<font color=red>News</font>**: We are organizing a workshop on "[Radio Map for 6G Communications](https://events.vtsociety.org/vtc2024-spring/conference-sessions/call-for-workshops/w8-radio-map-for-6g-communications/)" in VTC2024-Spring, Singapore. Workshop paper deadline: 13 February 2024. 
+**<font color=red>News</font>**:  我目前有充足经费可以支持实习生、科研助理参与相关研究，欢迎感兴趣的同学直接与我联系。
 
 Short Bio
 ======
@@ -45,7 +45,7 @@ International Conference on Communications in China, 28-30 Jul. 2021, Xiamen, Ch
 - **Track co-chair**: AI for wireless communications track in [National Artificial Intelligence Challenge](https://naic.pcl.ac.cn/landingpage/2023/index.html#/) (NAIC), 2021-2023. [[Media Report]](https://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/j3u3t6/stories/WS657ab110a310c2083e412ebf.html)
 - **Regular reviewer** for IEEE TWC, IEEE TCOM, IEEE JSTSP, IEEE TSP, IEEE TVT, IEEE WCL, IEEE CL, etc.  <br>
 - **TPC member** for IEEE Globecom, IEEE ICC, IEEE VTC, IEEE ICCC, IEEE WCSP, IEEE APCC, etc.  <br>
-
+- **Workshop co-chair** for  "[Radio Map for 6G Communications](https://events.vtsociety.org/vtc2024-spring/conference-sessions/call-for-workshops/w8-radio-map-for-6g-communications/)" in VTC2024-Spring, Singapore. 
 
 Teaching Experience
 ======
