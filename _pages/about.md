@@ -43,9 +43,12 @@ Academic Services
 - **Symposium co-chair**: [*Signal Processing for Communications (SPC) Symposium*](https://iccc2021.ieee-iccc.org/committee/symposium-co-chairs/), IEEE/CIC
 International Conference on Communications in China, 28-30 Jul. 2021, Xiamen, China <be>
 - **Track co-chair**: AI for wireless communications track in [National Artificial Intelligence Challenge](https://naic.pcl.ac.cn/landingpage/2023/index.html#/) (NAIC), 2021-2023. [[Media Report]](https://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/j3u3t6/stories/WS657ab110a310c2083e412ebf.html)
+- **Workshop co-chair** for  "[Radio Map for 6G Communications](https://events.vtsociety.org/vtc2024-spring/conference-sessions/call-for-workshops/w8-radio-map-for-6g-communications/)" in IEEE VTC2024-Spring, Singapore.
+- **Symposium co-chair**: [*AI Enabled Wireless and Networking Symposium*](https://iccc2024.ieee-iccc.org/), IEEE/CIC
+International Conference on Communications in China, 7-9 Aug. 2024, Hangzhou, China <be>
 - **Regular reviewer** for IEEE TWC, IEEE TCOM, IEEE JSTSP, IEEE TSP, IEEE TVT, IEEE WCL, IEEE CL, etc.  <br>
 - **TPC member** for IEEE Globecom, IEEE ICC, IEEE VTC, IEEE ICCC, IEEE WCSP, IEEE APCC, etc.  <br>
-- **Workshop co-chair** for  "[Radio Map for 6G Communications](https://events.vtsociety.org/vtc2024-spring/conference-sessions/call-for-workshops/w8-radio-map-for-6g-communications/)" in VTC2024-Spring, Singapore. 
+
 
 Teaching Experience
 ======
