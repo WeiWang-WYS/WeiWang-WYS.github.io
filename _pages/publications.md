@@ -7,7 +7,7 @@ author_profile: true
 
 Journal Papers 
 ------
-[J23] J. Chen, **W. Wang**, and J. Wang, “[Opportunistic passive beamforming for RIS-assisted WiFi network: system design and experimental validation](https://ieeexplore.ieee.org/document/10552124),” *IEEE Internet of Things Journal*, DOI: 10.1109/JIOT.2024.3411119. <br>
+[J23] J. Chen, **W. Wang**, and J. Wang, “[Opportunistic passive beamforming for RIS-assisted WiFi network: System design and experimental validation](https://ieeexplore.ieee.org/document/10552124),” *IEEE Internet of Things Journal*, DOI: 10.1109/JIOT.2024.3411119. <br>
 [J22] W. Chen, C. Liu, **W. Wang**, M. Peng, and W. Zhang, “[Adaptive hybrid beamforming for UAV mmWave communications against asymmetric jitter](https://ieeexplore.ieee.org/document/10436051),” *IEEE Transactions on Wireless Communications*, DOI: 10.1109/TWC.2024.3362384. <br>
 [J21] J. Yan, Y. Cui, **W. Wang**, “[A three-level federated learning framework for CSI fingerprint-based indoor localization in multiple servers environment](https://ieeexplore.ieee.org/document/10412104)," *IEEE Communications Letters*, vol. 28, no. 4, pp. 818-822, Apr. 2024. <br>
 [J20] **W. Wang**, W. Zhang, and H. Xiong, “[Model-free configuration of intelligent reflecting surfaces: Towards pervasive adaptability and enhanced robustness](https://ieeexplore.ieee.org/document/10049303),” *IEEE Wireless Communications*, vol. 31, no. 2, pp. 142-148, Apr. 2024. <br>
