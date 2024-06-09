@@ -45,10 +45,10 @@ Research Interests
 
 学术奖励
 ======
-- 国家级高层次青年人才, 2022年. <br>
-- IEEE通信学会亚太区杰出青年学者奖(亚太区7人）, 2023年. <br>
-- IEEE/CIC International Conference on Communications in China, 最佳论文奖, 2016年. <br>
-- 2021年无线通信AI大赛``AI-based Channel State Information Feedback" 赛道第五名（共334支参赛队伍，主办方为IMT-2020(5G)推进组、中国信通院以及OPPO移动通信公司). <br>
+- 国家级高层次青年人才, 2022年 <br>
+- IEEE通信学会亚太区杰出青年学者奖(亚太区7人）, 2023年 <br>
+- IEEE/CIC International Conference on Communications in China, 最佳论文奖, 2016年 <br>
+- 2021年无线通信AI大赛``AI-based Channel State Information Feedback" 赛道第五名（共334支参赛队伍，主办方为IMT-2020(5G)推进组、中国信通院以及OPPO移动通信公司) <br>
 - IEEE Transactions on Communications 优秀审稿人, 2017年 <br>
 - IEEE Wireless Communications Letters 优秀审稿人, 2017年-2019年 <br>
 
