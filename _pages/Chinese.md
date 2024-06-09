@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "王伟，鹏城实验室，副研究员\\
+title: "中文简历\\
 IEEE高级会员"
 permalink: /Chinese/
 author_profile: true
@@ -9,64 +9,49 @@ author_profile: true
 
 
 
-Short Bio
+
 ======
-<p style="text-align:justify">Wei Wang is currently a senior research scientist (equivalent to associate professor) with the Peng Cheng Laboratory, Shenzhen, China. He received the B.S. degree  (with the highest honor) from Central South University, Changsha, China in 2010, the M.S. degree from Southeast University, Nanjing, China in 2013, and the Ph.D. degree from the University of New South Wales, Sydney, Australia in 2017. From 2018 to 2021, he was a Post-Doctoral Research Fellow with the School of Electrical Engineering and Telecommunications, the University of New South Wales, Sydney, Australia.</p>
+<p style="text-align:justify">王伟，鹏城实验室的副研究员，国家级高层次青年人才，IEEE高级会员。2010年获中南大学学士学位，2013年获东南大学硕士学位，2017年获澳大利亚悉尼新南威尔士大学博士学位。2018年至2021年，在澳大利亚悉尼新南威尔士大学任博士后研究员，2022年至今任鹏城实验室副研究员。。</p>
 
 Research Interests
 ======
-- **Intelligent reflecting surfaces assisted wireless communications** <br>
-Creating smart radio environment using intelligent reflecting surfaces and reinforcement
-learning technologies.<br>
-- **UAV communications** <br>
-Integrating wireless sensing with air navigation for the smarter control of UAV flight and
-communications in urban cellular networks. <br>
-- **Artificial Intelligence (AI) in wireless communications** <br>
-Exploiting the spatial signatures of wireless channels using deep learning technologies to
-self-cluster, auto-encode, and auto-decode the massive data of wireless channels.<br>
-- **Joint localization and millimeter wave communications** <br>
-Embracing localization with mmWave communications to build the dual-function (positioning
-& communications) infrastructures for urban IoT. <br>
+- **可编程超表面智能配置技术研究** <br>
+- **人工智能使能的无线通信技术研究** <br>
+- **毫米波通信关键技术研究** <br>
+- **无线通信与定位一体化技术研究** <br>
+- **零信任安全技术研究** <br> 
 
 
 
-Research Projects
+在研项目
 ======
-- **Natural Science Foundation of China Project For Young Researcher**, 300K RMB, 2023-2025. <br>
-- **National Key Research and Development Program of China**, 1.88M RMB, 2023-2025. <br>
-- **National Talent Program**, 2.5M RMB, 2023-2025. <br>
+- 国家自然科学青年基金--基于可编程超表面的无线通信环境配置理论与关键技术研究（经费30万）, 项目负责人  <br>
+- 国家重点研发计划--融合空间全程免疫安全机制课题（课题经费188万）, 课题负责人 <br>
+- 国家级高层次青年人才项目（项目经费250万元）, 项目负责人 <br>
+- PCL重大攻关项目（课题经费459万元），课题负责人 <br>
 
-Academic Services
+学术兼职
 ======
-- **Editor**: *[IEEE Wireless Communications Letters](https://www.comsoc.org/publications/journals/ieee-wcl/ieee-wireless-communications-letters-editorial-board)*, 2019-2023 <br>
-- **Symposium co-chair**: [*Signal Processing for Communications (SPC) Symposium*](https://iccc2021.ieee-iccc.org/committee/symposium-co-chairs/), IEEE/CIC
-International Conference on Communications in China, 28-30 Jul. 2021, Xiamen, China <be>
-- **Track co-chair**: AI for wireless communications track in [National Artificial Intelligence Challenge](https://naic.pcl.ac.cn/landingpage/2023/index.html#/) (NAIC), 2021-2023. [[Media Report]](https://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/j3u3t6/stories/WS657ab110a310c2083e412ebf.html)
-- **Workshop co-chair** for  "[Radio Map for 6G Communications](https://events.vtsociety.org/vtc2024-spring/conference-sessions/call-for-workshops/w8-radio-map-for-6g-communications/)" in IEEE VTC2024-Spring, Singapore.
-- **Symposium co-chair**: [*AI Enabled Wireless and Networking Symposium*](https://iccc2024.ieee-iccc.org/), IEEE/CIC
-International Conference on Communications in China, 7-9 Aug. 2024, Hangzhou, China <be>
-- **Regular reviewer** for IEEE TWC, IEEE TCOM, IEEE JSTSP, IEEE TSP, IEEE TVT, IEEE WCL, IEEE CL, etc.  <br>
-- **TPC member** for IEEE Globecom, IEEE ICC, IEEE VTC, IEEE ICCC, IEEE WCSP, IEEE APCC, etc.  <br>
+- 2020年–2023年 IEEE Wireless Communications Letters 编委 <br>
+- 2021年 IEEE/CIC International Conference on Communications in China, Signal Processing for Communications (SPC) Symposium Co-Chairs（信号处理专题共同主席） <br>
+- 2024年 IEEE/CIC International Conference on Communications in China,  AI Enabled Wireless and Networking Symposium Co-Chairs（AI使能无线通信网络专题共同主席） <br>
+- 2024年 IEEE International Conference on Wireless Communications and Signal Processing, Convergence of Sensing, Communication, and Computing Symposium Co-Chairs（传感、通信和计算融合专题共同主席）<br>
+- 2024年 IEEE VTC-Spring ``Radio Map for 6G Communications" workshop 共同主席 <br>
+- 2020年–2022年 第2-3届全国人工智能大赛无线通信赛道技术筹备组成员 \\
+2023年 第4届全国人工智能大赛无线通信赛道技术总负责人 <br>
+- 2015年–至今 IEEE TWC, IEEE TCOM, IEEE JSTSP, IEEE TSP, IEEE TVT 等著名期刊审稿人 <br>
+- 2017年–至今 IEEE ICC，Globecom，ICCC, APCC， WCSP 等知名会议技术程序委员会成员 <br>
 
 
-Teaching Experience
+
+学术奖励
 ======
-- **Lecture** (Lecture convenor, UNSW), Coding and Information Theory, 2018 <br>
-- **Lecture** (Substitute lecture convenor, UNSW), Digital Modulation & Coding, Coding and Information Theory, 2019-2020 <br> 
-- **Tutorial** (UNSW), Digital Modulation & Coding, 2019-2020 <br> 
-- **Tutorial** (UNSW) Electrical Circuit Fundamentals, 2021 <br>
-- **Lab demonstration** (UNSW), Analog and Digital Communications, 2015 <br>
-- **Lab demonstration** (UNSW), Digital Modulation & Coding, 2016 − 2019 <br>
-- **Online lab design and demonstration** (UNSW) Digital Modulation & Coding, 2020 − 2021 <br>
-
-Awards
-======
-- IEEE ComSoc Asia-Pacific Outstanding Young Researcher Award, 2023. 
-- Rank 5th out of 334 teams （sole participant of the team） in the online AI competition “[AI-based Channel State Information Feedback](https://www.datafountain.cn/competitions/503)” organized by IMT-2020(5G) Promotion Group and OPPO Mobile Telecommunications Corp., 2021. <br>
-- Exemplary Reviewer for IEEE Wireless Communications Letters in 2017-2019. <br>
-- Exemplary Reviewer for IEEE Transactions on Communications in 2017. <br>
-- Postdoctoral Writing Fellowship, Faculty of Engineering, UNSW, 2017. <br>
-- IEEE/CIC International Conference on Communications in China, Best Paper Award, 2016. 
+- 国家级高层次青年人才, 2022年. <br>
+- IEEE通信学会亚太区杰出青年学者奖(亚太区7人）, 2023年. <br>
+- IEEE/CIC International Conference on Communications in China, 最佳论文奖, 2016年. <br>
+- 2021年无线通信AI大赛``AI-based Channel State Information Feedback" 赛道第五名（共334支参赛队伍，主办方为IMT-2020(5G)推进组、中国信通院以及OPPO移动通信公司). <br>
+- IEEE Transactions on Communications 优秀审稿人, 2017年 <br>
+- IEEE Wireless Communications Letters 优秀审稿人, 2017年-2019年 <br>
 
 
 
