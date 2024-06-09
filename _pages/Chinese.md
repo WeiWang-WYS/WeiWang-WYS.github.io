@@ -1,12 +1,13 @@
 ---
 layout: archive
-title: "中文简历"
+title: "王伟，鹏城实验室，副研究员\\
+IEEE高级会员"
 permalink: /Chinese/
 author_profile: true
 ---
 
 
-**<font color=red>News:</font>** 我目前有充足经费可以支持实习生、科研助理参与科研工作，欢迎感兴趣的同学直接与我联系。此外，欢迎基础扎实的同学申请鹏城博士专项录取名额。（I currently have sufficient funds to support interns and research assistants participating in research work.  Interested students, please contact me directly. Additionally, students with a solid foundation are encouraged to apply for Ph.D. admission.）
+
 
 Short Bio
 ======
