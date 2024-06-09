@@ -10,7 +10,7 @@ author_profile: true
 
 个人简介
 ======
-<p style="text-align:justify">王伟，鹏城实验室副研究员，国家级高层次青年人才，IEEE高级会员。2010年获中南大学学士学位，2013年获东南大学硕士学位，2017年获澳大利亚悉尼新南威尔士大学博士学位。2018年至2021年，在澳大利亚新南威尔士大学任博士后研究员，2022年至今任鹏城实验室副研究员。目前，以第一作者身份在IEEE JSAC、IEEE TWC、IEEE TCOM等通信领域高水平期刊发表论文14篇。</p>
+<p style="text-align:justify">王伟，鹏城实验室副研究员，国家级高层次青年人才，IEEE高级会员。2010年获中南大学学士学位，2013年获东南大学硕士学位，2017年获澳大利亚新南威尔士大学博士学位。2018年至2021年，在澳大利亚新南威尔士大学任博士后研究员，2022年至今任鹏城实验室副研究员。目前，以第一作者身份在IEEE JSAC、IEEE TWC、IEEE TCOM等通信领域高水平期刊发表论文14篇。</p>
 
 研究方向
 ======
@@ -31,7 +31,7 @@ author_profile: true
 ======
 - 2020年–2023年 IEEE Wireless Communications Letters 编委 <br>
 - 2021年 IEEE/CIC International Conference on Communications in China, Signal Processing for Communications (SPC) Symposium Co-Chairs（信号处理专题共同主席） <br>
-- 2024年 IEEE/CIC International Conference on Communications in China,  AI Enabled Wireless and Networking Symposium Co-Chairs（AI使能无线通信网络专题共同主席） <br>
+- 2024年 IEEE/CIC International Conference on Communications in China,  AI-Enabled Wireless and Networking Symposium Co-Chairs（AI使能无线通信网络专题共同主席） <br>
 - 2024年 IEEE International Conference on Wireless Communications and Signal Processing, Convergence of Sensing, Communication, and Computing Symposium Co-Chairs（感知、通信和计算融合专题共同主席）<br>
 - 2024年 IEEE VTC-Spring ``Radio Map for 6G Communications" workshop 共同主席 <br>
 - 2020年–2022年 第2-3届全国人工智能大赛无线通信赛道技术筹备组成员 \\
