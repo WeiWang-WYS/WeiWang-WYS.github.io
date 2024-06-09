@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "中文简历"
+title: ""
 permalink: /Chinese/
 author_profile: true
 ---
@@ -8,11 +8,11 @@ author_profile: true
 
 
 
-
+个人简介
 ======
 <p style="text-align:justify">王伟，鹏城实验室的副研究员，国家级高层次青年人才，IEEE高级会员。2010年获中南大学学士学位，2013年获东南大学硕士学位，2017年获澳大利亚悉尼新南威尔士大学博士学位。2018年至2021年，在澳大利亚悉尼新南威尔士大学任博士后研究员，2022年至今任鹏城实验室副研究员。。</p>
 
-Research Interests
+研究方向
 ======
 - **可编程超表面智能配置技术研究** <br>
 - **人工智能使能的无线通信技术研究** <br>
