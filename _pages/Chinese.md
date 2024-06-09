@@ -35,7 +35,7 @@ author_profile: true
 - 2024年 IEEE International Conference on Wireless Communications and Signal Processing, Convergence of Sensing, Communication, and Computing Symposium Co-Chairs（感知、通信和计算融合专题共同主席）<br>
 - 2024年 IEEE VTC-Spring ``Radio Map for 6G Communications" workshop 共同主席 <br>
 - 2020年–2022年 第2-3届全国人工智能大赛无线通信赛道技术筹备组成员 \\
-  2023年 第4届[全国人工智能大赛无线通信赛道](https://naic.pcl.ac.cn/landingpage/2023/index.html#/)技术总负责人, 初赛相关论文[1](https://ieeexplore.ieee.org/document/10272348) <br>
+  2023年 第4届[全国人工智能大赛无线通信赛道](https://naic.pcl.ac.cn/landingpage/2023/index.html#/)技术总负责人, 初赛相关论文[【1】](https://ieeexplore.ieee.org/document/10272348) <br>
 - 2015年–至今 IEEE TWC, IEEE TCOM, IEEE JSTSP, IEEE TSP, IEEE TVT 等著名期刊审稿人 <br>
 - 2017年–至今 IEEE ICC，Globecom，ICCC, APCC， WCSP 等知名会议技术程序委员会成员 <br>
 
