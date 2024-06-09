@@ -32,7 +32,7 @@ author_profile: true
 - 2020年–2023年 IEEE Wireless Communications Letters 编委 <br>
 - 2021年 IEEE/CIC International Conference on Communications in China, Signal Processing for Communications (SPC) Symposium Co-Chairs（信号处理专题共同主席） <br>
 - 2024年 IEEE/CIC International Conference on Communications in China,  AI Enabled Wireless and Networking Symposium Co-Chairs（AI使能无线通信网络专题共同主席） <br>
-- 2024年 IEEE International Conference on Wireless Communications and Signal Processing, Convergence of Sensing, Communication, and Computing Symposium Co-Chairs（传感、通信和计算融合专题共同主席）<br>
+- 2024年 IEEE International Conference on Wireless Communications and Signal Processing, Convergence of Sensing, Communication, and Computing Symposium Co-Chairs（感知、通信和计算融合专题共同主席）<br>
 - 2024年 IEEE VTC-Spring ``Radio Map for 6G Communications" workshop 共同主席 <br>
 - 2020年–2022年 第2-3届全国人工智能大赛无线通信赛道技术筹备组成员 \\
 2023年 第4届全国人工智能大赛无线通信赛道技术总负责人 <br>
