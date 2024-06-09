@@ -1,7 +1,6 @@
 ---
 layout: archive
-title: "中文简历\\
-IEEE高级会员"
+title: "中文简历"
 permalink: /Chinese/
 author_profile: true
 ---
