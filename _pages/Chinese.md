@@ -22,22 +22,22 @@ author_profile: true
 
 在研项目
 ======
-- 国家自然科学青年基金--基于可编程超表面的无线通信环境配置理论与关键技术研究（经费30万）, 项目负责人  <br>
-- 国家重点研发计划--融合空间全程免疫安全机制课题（课题经费188万）, 课题负责人 <br>
+- 国家自然科学青年基金--基于可编程超表面的无线通信环境配置理论与关键技术研究（经费30万元）, 项目负责人  <br>
+- 国家重点研发计划--融合空间全程免疫安全机制课题（课题经费188万元）, 课题负责人 <br>
 - 国家级高层次青年人才项目（国家经费200万元，省级配套经费50万元）, 项目负责人 <br>
 - PCL重大攻关项目（课题经费459万元），课题负责人 <br>
 
 学术兼职
 ======
-- 2020年–2023年 IEEE Wireless Communications Letters 编委 <br>
+- 2020年–2023年 IEEE Wireless Communications Letters编委 <br>
 - 2021年 IEEE/CIC International Conference on Communications in China, Signal Processing for Communications (SPC) Symposium Co-Chairs（信号处理专题共同主席） <br>
 - 2024年 IEEE/CIC International Conference on Communications in China,  AI-Enabled Wireless and Networking Symposium Co-Chairs（AI使能无线通信网络专题共同主席） <br>
 - 2024年 IEEE International Conference on Wireless Communications and Signal Processing, Convergence of Sensing, Communication, and Computing Symposium Co-Chairs（感知、通信和计算融合专题共同主席）<br>
 - 2024年 IEEE VTC-Spring “Radio Map for 6G Communications” workshop 共同主席 <br>
-- 2020年–2022年 第2-3届全国人工智能大赛无线通信赛道技术筹备组成员 \\
+- 2020年–2022年 第2-3届全国人工智能大赛无线通信赛道技术筹备组成员\\
   2023年 第4届[全国人工智能大赛无线通信赛道](https://naic.pcl.ac.cn/landingpage/2023/index.html#/)技术总负责人, 初赛相关论文[【1】](https://ieeexplore.ieee.org/document/10272348) <br>
-- 2015年–至今 IEEE TWC, IEEE TCOM, IEEE JSTSP, IEEE TSP, IEEE TVT 等著名期刊审稿人 <br>
-- 2017年–至今 IEEE ICC, Globecom, ICCC, APCC, WCSP 等知名会议技术程序委员会成员 <br>
+- 2015年–至今 IEEE TWC, IEEE TCOM, IEEE JSTSP, IEEE TSP, IEEE TVT 等著名期刊审稿人<br>
+- 2017年–至今 IEEE ICC, Globecom, ICCC, APCC, WCSP 等知名会议技术程序委员会成员<br>
 
 
 
