@@ -23,6 +23,6 @@ Teaching Examples
 - Online lab for **Digital Modulation and Coding**, [QASK], [FSK], [BPSK], [CARRIER_SYNCHRONISATION].
 
 <video width="640" height="320" controls  class="center">
-  <source src='https://github.com/WeiWang-WYS/WeiWang-WYS.github.io/blob/master/files/QASKTransmitter.mp4' type="video/mp4">
+  <source src='https://WeiWang-WYS.github.io/files/QASKTransmitter.mp4' type="video/mp4">
 </video>
 
