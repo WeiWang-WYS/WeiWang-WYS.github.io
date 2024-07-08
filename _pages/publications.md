@@ -5,12 +5,45 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+Journal Papers 
+------
+[J23] J. Chen, **W. Wang**, and J. Wang, “[Opportunistic passive beamforming for RIS-assisted WiFi network: System design and experimental validation](https://ieeexplore.ieee.org/document/10552124),” *IEEE Internet of Things Journal*, DOI: 10.1109/JIOT.2024.3411119. <br>
+[J22] W. Chen, C. Liu, **W. Wang**, M. Peng, and W. Zhang, “[Adaptive hybrid beamforming for UAV mmWave communications against asymmetric jitter](https://ieeexplore.ieee.org/document/10436051),” *IEEE Transactions on Wireless Communications*, DOI: 10.1109/TWC.2024.3362384. <br>
+[J21] J. Yan, Y. Cui, **W. Wang**, “[A three-level federated learning framework for CSI fingerprint-based indoor localization in multiple servers environment](https://ieeexplore.ieee.org/document/10412104)," *IEEE Communications Letters*, vol. 28, no. 4, pp. 818-822, Apr. 2024. <br>
+[J20] **W. Wang**, W. Zhang, and H. Xiong, “[Model-free configuration of intelligent reflecting surfaces: Towards pervasive adaptability and enhanced robustness](https://ieeexplore.ieee.org/document/10049303),” *IEEE Wireless Communications*, vol. 31, no. 2, pp. 142-148, Apr. 2024. <br>
+[J19] **W. Wang**, B. Zhu, Y. Huang, and W. Zhang, “[Amplitude-constrained constellation and reflection pattern designs for directional backscatter communications using programmable metasurface](https://ieeexplore.ieee.org/document/10097675),”  *IEEE Transactions on Wireless Communications*, vol. 22, no. 11, pp. 8498-8511, Nov. 2023. <br>
+[J18] **W. Wang**, B. Yang, and W. Zhang, “[Deep learning-based radio map for MIMO-OFDM downlink precoding](https://ieeexplore.ieee.org/document/10272348),”  *Journal of Communications and Information Networks*, vol. 8, no. 3, pp. 203-211, Sept. 2023. <br>
+[J17] X. Guo, J. Ren, J. Zheng, J. Liao, C. Sun, H. Zhu, T. Song, S. Wang, and **W. Wang**, “[Automated penetration testing with fine-grained control through deep reinforcement learning](https://ieeexplore.ieee.org/document/10272349),” *Journal of Communications and Information Networks*, vol. 8, no. 3, pp. 212-220, Sept. 2023. <br>
+[J16] W.-Z. Zhang, **W. Wang**, and W. Zhang, “[Channel training for RIS-aided indoor terahertz MIMO systems,](https://ieeexplore.ieee.org/abstract/document/10123013)” *IEEE Wireless Communications Letters*, vol. 12, no. 8, pp. 1384-1388, Aug. 2023. <br>
+[J15] **W. Wang**, W. Zhang, “[Signal processing for RIS-assisted millimeter wave/terahertz communications](https://academic.oup.com/nsr/advance-article-abstract/doi/10.1093/nsr/nwad168/7190655)," National Science Review, vol. 10, no. 8, Aug. 2023, nwad168. <br>
+[J14] H. Wu, Z. Shao, F. Yang, G. Cheng, X. Hu, J. Ren, and **W. Wang**, “[PD-CPS: A practical scheme for detecting covert port scans in high-speed networks](https://doi.org/10.1016/j.comnet.2023.109825),”
+*Computer Networks*, vol. 231, Jul. 2023. <br>
+[J13] S. Wang, K. Zhang, B. Zhu, **W. Wang**, and Z. Zhang, “[Visible light communications for unmanned aerial vehicle: Channel modeling and experimental validation](https://ieeexplore.ieee.org/document/10103523),” *IEEE Communications Letters*, vol. 27, no. 6, pp. 1530-1534, Jun. 2023. <br>
+[J12] S.-M. Yan, J. Ren, **W. Wang**, L.-M.Sun, W. Zhang, and Q. Yu, “[A survey of adversarial attack and defense methods for malware classification in cyber security](https://ieeexplore.ieee.org/document/9964330),” *IEEE Communications Surveys and Tutorials*, vol. 25, no. 1, pp. 467-496, Firstquarter 2023. <br>
+[J11] **W. Wang** and W. Zhang, “[Intelligent reflecting surface configurations for smart radio using deep reinforcement learning](https://ieeexplore.ieee.org/document/9794416),” *IEEE Journal on Selected Areas in Communications*, vol. 40, no, 8, pp. 2335-2346, Aug. 2022. [[**Code**](https://github.com/WeiWang-WYS/IRSconfigurationDRL)] [[**Video**](https://weiwang-wys.github.io/talks/2022-12-7-talk)]<br>
+[J10] **W. Wang** and W. Zhang, “[Jittering effects analysis and beam training design for UAV millimeter wave communications](https://ieeexplore.ieee.org/document/9573459),” *IEEE Transactions on Wireless Communications*, vol. 21, no. 5, pp. 3131-3146, May 2022. [[**Code**](https://github.com/WeiWang-WYS/Near-Field_Far-Field)]<br>
+[J9] **W. Wang** and W. Zhang, “[Joint beam training and positioning for intelligent reflecting surfaces assisted millimeter wave communications](https://ieeexplore.ieee.org/document/9410435),” *IEEE Transactions on Wireless Communications*, vol. 20, no. 10, pp. 6282-6297, Oct. 2021. <br>
+[J8] **W. Wang** and W. Zhang, “[Truncated tree based hybrid beamforming for multi-panel MIMO](https://ieeexplore.ieee.org/document/9199129/),” *IEEE Transactions on Vehicular Technology*, vol. 69, no. 11. pp. 13974-13978, Nov. 2020. <br>
+[J7] **W. Wang**, W. Zhang, and J. Wu, “[Optimal beam pattern design for hybrid beamforming in millimeter wave communications](https://ieeexplore.ieee.org/document/9086134),” *IEEE Transactions on Vehicular Technology*, vol. 69, no. 7. pp. 7987-7991, July 2020. [[**Code**](https://github.com/WeiWang-WYS/BeamPatternDesign)] <br>
+[J6] **W. Wang** and W. Zhang, “[Orthogonal projection based channel estimation for multi-panel millimeter wave MIMO](https://ieeexplore.ieee.org/document/8955809),” *IEEE Transactions on Communications*, vol. 68, no. 4, pp. 2173-2187, Apr. 2020. <br>
+[J5] **W. Wang** and W. Zhang, “[Spatial modulation for uplink multi-user mmwave MIMO systems with hybrid structure](https://ieeexplore.ieee.org/document/8876878/),” *IEEE Transactions on Communications*, vol. 68, no. 1, pp. 177-190, Jan. 2020. <br>
+[J4] C. Zhang, W. Z. Zhang, **W. Wang**, L. Yang, and W. Zhang, “[Research challenges and opportunities of UAV millimeter-wave communications](https://ieeexplore.ieee.org/document/8641426/),” *IEEE Wireless Communications*, vol. 26, no. 1, pp. 58-62, Feb. 2019. <br>
+[J3] **W. Wang** and W. Zhang, “[Transmit signal designs for spatial modulation with analog phase shifters](http://ieeexplore.ieee.org/document/8299577/),” *IEEE Transactions on Wireless Communications*, vol. 17, no. 5, pp. 3059-3070, May 2018. <br>
+[J2] **W. Wang** and W. Zhang, “[Huffman coding based adaptive spatial modulation](http://ieeexplore.ieee.org/document/7933242/),” *IEEE Transactions on Wireless Communications*, vol. 16, no. 8, pp. 5090-5101, August 2017. [[**Code**](https://github.com/WeiWang-WYS/Huffman-coding-based-adaptive-spatial-modulation)] <br>
+[J1] **W. Wang** and W. Zhang, “[Signal shaping and precoding for MIMO systems using lattice codes](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7435312),” *IEEE Transactions on Wireless Communications*, vol. 15, no 7, pp. 4625-4634, July 2016. <br>
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Conference Papers
+------
+[C13] B. Yang, **W. Wang**, W. Zhang, “Cell-free massive MIMO beamforming based on radio map,” *Proc. International Conference on Communications (ICC 2024)*, Denver, CO, USA, Jun.  9–13, 2024. <br>
+[C12] S. Yan, L. Shi, J. Ren, **W. Wang**, Y. Liu, L. Sun, X. Wang, W. Zhang, “Log-based anomaly detection with transformers pre-trained on large-scale unlabeled data,” *Proc. International Conference on Communications (ICC 2024)*, Denver, CO, USA, Jun.  9–13, 2024. <br>
+[C11] W. Chen, C. Liu, **W. Wang**, and M. Peng, “[Adaptive beamwidth control for UAV mmWave communications under jittering effects](https://ieeexplore.ieee.org/document/10283724),” *Proc. International Conference on Communications (ICC 2023) Workshop*, Rome, Italy,  May 28-Jun. 01. <br>
+[C10] **W. Wang** and W. Zhang, “[Deep reinforcement learning empowered smart control of intelligent reflecting surface](https://ieeexplore.ieee.org/document/10000897/),” *Proc. IEEE Global Communications Conference (GLOBECOM 2022)*, Rio de Janeiro, Brazil, Dec.4-8, 2022. <br>
+[C9] H. Wu, Z. Shao, G. Cheng, X. Hu, J. Ren, and **W. Wang**, “[Detecting slow port scans of long duration in high-speed networks](https://ieeexplore.ieee.org/document/10001708/),” *Proc. IEEE Global Communications Conference (GLOBECOM 2022)*, Rio de Janeiro, Brazil, Dec.4-8, 2022. <br>
+[C8] W. Z. Zhang and **W. Wang**, “[IRS-aided indoor millimeter-wave system: Near-field codebook design](https://ieeexplore.ieee.org/document/10008623/),” *IEEE Global Communications Conference (GLOBECOM 2022) Workshop*, Rio de Janeiro, Brazil, Dec.4-8, 2022. <br>
+[C7] **W. Wang**, W. Zhang, Y. Li, and J. Lu, “[Channel estimation and hybrid precoding for multipanel millimeter wave MIMO](https://ieeexplore.ieee.org/document/8422137),” *International Conference on Communications (ICC 2018)*, Kansas, USA, May 20-24, 2018. <br>
+[C6] **W. Wang** and W. Zhang, “[Antenna subset selection for Line-of-Sight millimeter wave massive MIMO systems](https://ieeexplore.ieee.org/document/8304064/),” *Proc. the 23rd Asia Pacific Conference on Communications (APCC 2017)*, Perth, Australia, Dec. 11-13, 2017. <br>
+[C5] **W. Wang** and W. Zhang, “[Optimal signal constellation for downlink two-user NOMA](http://ieeexplore.ieee.org/document/8304063/),” *Proc. the 23rd Asia Pacific Conference on Communications (APCC 2017)*, Perth, Australia, Dec. 11-13, 2017. <br>
+[C4] **W. Wang** and W. Zhang, “[Spatial modulation using analog phase shifters](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7997057),” *Proc. IEEE International Conference on Communications (ICC 2017)*, Paris, France, May 21-25, 2017. <br>
+[C3] **W. Wang** and W. Zhang, “[Adaptive spatial modulation using Huffman coding](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7841569),” *Proc. IEEE Global Communications Conference (GLOBECOM 2016)*, Washington, DC, USA, Dec. 4-8, 2016. <br>
+[C2] **W. Wang** and W. Zhang, “[Signal shaping based lattice codes for MIMO systems](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7636808),” *Proc. IEEE International Conference on Communications in China (ICCC 2016)*, Chengdu, China, Jul. 27-29, 2016. <br>
+[C1] **W. Wang** and W. Zhang, “[Diagonal precoder designs for spatial modulation](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7248686),” *Proc. IEEE Int. Conf. Commun. (ICC 2015)*, London, UK, Jun., 2015, pp. 2411-2415. <br>
