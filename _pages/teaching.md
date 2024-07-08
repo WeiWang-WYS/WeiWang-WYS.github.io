@@ -17,7 +17,7 @@ Teaching Experience
 - Lab demonstration, **Digital Modulation and Coding**, 2016 − 2019, UNSW.
 - Online lab design and demonstration, **Digital Modulation and Coding**, 2020 − 2021, UNSW.
 
-Teaching Examples
+Teaching Samples
 ======
 - Convolutional Code, a 15-minute teaching clip of **Coding and Information Theory**.
 - Online lab for **Digital Modulation and Coding**, [QASK], [FSK], [BPSK], [CARRIER_SYNCHRONISATION].
