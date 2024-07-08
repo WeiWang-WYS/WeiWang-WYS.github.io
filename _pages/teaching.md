@@ -21,3 +21,8 @@ Teaching Examples
 ======
 - Convolutional Code, a 15-minute teaching clip of **Coding and Information Theory**.
 - Online lab for **Digital Modulation and Coding**, [QASK], [FSK], [BPSK], [CARRIER_SYNCHRONISATION].
+
+<video width="640" height="320" controls  class="center">
+  <source src='https://github.com/WeiWang-WYS/WeiWang-WYS.github.io/blob/master/files/QASKTransmitter.mp4' type="video/mp4">
+</video>
+
