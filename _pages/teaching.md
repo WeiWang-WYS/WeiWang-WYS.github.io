@@ -19,9 +19,9 @@ Teaching Experience
 
 Teaching Samples
 ======
-- ***Convolutional Code***, a 15-minutes teaching clip of **Coding and Information Theory**. [[**Video**](https://youtu.be/Rx6rOq9IIuA)]
+- ***Convolutional Code***, a 15-minutes teaching clip of Coding and Information Theory， [[**Video**](https://youtu.be/Rx6rOq9IIuA)].
   
 
-- Online lab for **Digital Modulation and Coding**, [**[QASK](https://weiwang-wys.github.io/files/Lab1/Lab1.pdf)**], [**[FSK](https://weiwang-wys.github.io/files/Lab2/Lab2.pdf)**], [**[BPSK](https://weiwang-wys.github.io/files/Lab3/Lab3.pdf)**], [**[CARRIER_SYNCHRONISATION](https://weiwang-wys.github.io/files/Lab4/Lab4.pdf)**].
+- **Online lab materials** for Digital Modulation and Coding, [**[QASK](https://weiwang-wys.github.io/files/Lab1/Lab1.pdf)**], [**[FSK](https://weiwang-wys.github.io/files/Lab2/Lab2.pdf)**], [**[BPSK](https://weiwang-wys.github.io/files/Lab3/Lab3.pdf)**], [**[CARRIER_SYNCHRONISATION](https://weiwang-wys.github.io/files/Lab4/Lab4.pdf)**].
 
 
