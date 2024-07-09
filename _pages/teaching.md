@@ -22,9 +22,21 @@ Teaching Samples
 - Convolutional Code, a 15-minute teaching clip of **Coding and Information Theory**.
   
 <iframe id="ytplayer" type="text/html" width="160" height="90"
-  src="https://www.youtube.com/embed/Rx6rOq9IIuA?si=szY_0sJp7J0YhSo"
+  src="https://www.youtube.com/embed/Rx6rOq9IIuA?si=szY_0sJp7J0YhSo",onload="adjustIframe()", frameborder="0" 
   ></iframe>
 
+function adjustIframe(){
+
+var ifm= document.getElementById("bi_iframe");
+
+ifm.height=document.documentElement.clientHeight;
+
+ifm.width=document.documentElement.clientWidth;
+
+}
+
+                        
+原文链接：https://blog.csdn.net/huzia/article/details/109073895
 - Online lab for **Digital Modulation and Coding**, [QASK], [FSK], [BPSK], [CARRIER_SYNCHRONISATION].
 
 
