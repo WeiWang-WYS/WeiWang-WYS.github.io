@@ -35,8 +35,6 @@ ifm.width=document.documentElement.clientWidth;
 
 }
 
-                        
-原文链接：https://blog.csdn.net/huzia/article/details/109073895
 - Online lab for **Digital Modulation and Coding**, [QASK], [FSK], [BPSK], [CARRIER_SYNCHRONISATION].
 
 
