@@ -21,9 +21,9 @@ Teaching Samples
 ======
 - Convolutional Code, a 15-minute teaching clip of **Coding and Information Theory**.
   
-<iframe id="ytplayer" type="text/html" width="320" height="180"
+<iframe id="ytplayer" type="text/html" width="160" height="90"
   src="https://www.youtube.com/embed/Rx6rOq9IIuA?si=szY_0sJp7J0YhSo"
-  frameborder="0"></iframe>
+  ></iframe>
 
 - Online lab for **Digital Modulation and Coding**, [QASK], [FSK], [BPSK], [CARRIER_SYNCHRONISATION].
 
