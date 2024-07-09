@@ -21,7 +21,7 @@ Teaching Samples
 ======
 - Convolutional Code, a 15-minute teaching clip of **Coding and Information Theory**.
   
-<iframe id="ytplayer" type="text/html" width="640" height="360"
+<iframe id="ytplayer" type="text/html" width="320" height="180"
   src="https://www.youtube.com/embed/Rx6rOq9IIuA?si=szY_0sJp7J0YhSo-&amp;controls=0"
   frameborder="0"></iframe>
 
