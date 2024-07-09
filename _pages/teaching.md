@@ -14,8 +14,8 @@ Teaching Experience
 - Tutorial, **Digital Modulation and Coding**, 2019-2020, UNSW.
 - Tutorial, **Electrical Circuit Fundamentals**, 2021, UNSW.
 - Lab demonstration, **Analog and Digital Communications**, 2015, UNSW.
-- Lab demonstration, **Digital Modulation and Coding**, 2016 − 2019, UNSW.
-- Online lab design and demonstration, **Digital Modulation and Coding**, 2020 − 2021 (Covid-19 pandemic), UNSW.
+- Lab demonstration, **Digital Modulation and Coding**, 2016−2019, UNSW.
+- Online lab design and demonstration, **Digital Modulation and Coding**, 2020−2021 (Covid-19 pandemic), UNSW.
 
 Teaching Samples
 ======
