@@ -35,7 +35,7 @@ Research Projects
 ======
 - **Natural Science Foundation of China Project For Young Researcher**, 300K RMB, 2023-2025. <br>
 - **National Key Research and Development Program of China**, 1.88M RMB, 2023-2025. <br>
-- **National Young Talent Program**, 2.5M RMB, 2023-2025. <br>
+- **National Young Talents Program**, 2.5M RMB, 2023-2025. <br>
 
 Academic Services
 ======
