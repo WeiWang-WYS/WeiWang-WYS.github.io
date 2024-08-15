@@ -53,7 +53,7 @@ International Conference on Communications in China, 7-9 Aug. 2024, Hangzhou, Ch
 Awards
 ======
 - IEEE/CIC International Conference on Communications in China, Best Paper Award, 2024. 
-- **IEEE ComSoc Asia-Pacific Outstanding Young Researcher Award, 2023.**
+- [IEEE ComSoc Asia-Pacific Outstanding Young Researcher Award](https://apb.regions.comsoc.org/ap-regional-awards/), 2023. 
 - Rank 5th out of 334 teams （sole participant of the team） in the online AI competition “[AI-based Channel State Information Feedback](https://www.datafountain.cn/competitions/503)” organized by IMT-2020(5G) Promotion Group and OPPO Mobile Telecommunications Corp., 2021. <br>
 - Exemplary Reviewer for IEEE Wireless Communications Letters in 2017-2019. <br>
 - Exemplary Reviewer for IEEE Transactions on Communications in 2017. <br>
