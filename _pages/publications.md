@@ -6,7 +6,7 @@ author_profile: true
 ---
 Preprint
 ------
-[P1] XG Xia, **W. Wang**, “[Discrete Spectrum Analysis of Vector OFDM Signals](https://arxiv.org/pdf/2407.19503),” arXiv preprint arXiv:2407.19503.
+[P1] X-G Xia, **W. Wang**, “[Discrete Spectrum Analysis of Vector OFDM Signals](https://arxiv.org/pdf/2407.19503),” arXiv preprint arXiv:2407.19503.
 
 Journal Papers 
 ------
