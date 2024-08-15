@@ -6,7 +6,7 @@ author_profile: true
 ---
 Preprint
 ------
-[P1] X-G Xia, **W. Wang**, “[Discrete Spectrum Analysis of Vector OFDM Signals](https://arxiv.org/pdf/2407.19503),” arXiv preprint arXiv:2407.19503.
+[P1] X-G Xia, **W. Wang**, “[Discrete spectrum analysis of vector OFDM signals](https://arxiv.org/pdf/2407.19503),” arXiv preprint arXiv:2407.19503.
 
 Journal Papers 
 ------
@@ -37,7 +37,7 @@ Journal Papers
 
 Conference Papers
 ------
-[C14] D. Xie,  C. Liu, **W. Wang**, X. Hu, M. Peng, “Deep Residual Learning for Channel Estimation in UAV mmWave Systems: A Model-Driven Approach,” *Proc. IEEE International Conference on Communications in China (ICCC 2024)*, Hangzhou, China, Aug. 7-9, 2024.  <br>
+[C14] D. Xie,  C. Liu, **W. Wang**, X. Hu, M. Peng, “Deep residual learning for channel estimation in UAV mmWave systems: A model-driven approach,” *Proc. IEEE International Conference on Communications in China (ICCC 2024)*, Hangzhou, China, Aug. 7-9, 2024.  <br>
 [C13] B. Yang, **W. Wang**, W. Zhang, “Cell-free massive MIMO beamforming based on radio map,” *Proc. International Conference on Communications (ICC 2024)*, Denver, CO, USA, Jun.  9–13, 2024. <br>
 [C12] S. Yan, L. Shi, J. Ren, **W. Wang**, Y. Liu, L. Sun, X. Wang, W. Zhang, “Log-based anomaly detection with transformers pre-trained on large-scale unlabeled data,” *Proc. International Conference on Communications (ICC 2024)*, Denver, CO, USA, Jun.  9–13, 2024. <br>
 [C11] W. Chen, C. Liu, **W. Wang**, and M. Peng, “[Adaptive beamwidth control for UAV mmWave communications under jittering effects](https://ieeexplore.ieee.org/document/10283724),” *Proc. International Conference on Communications (ICC 2023) Workshop*, Rome, Italy,  May 28-Jun. 01. <br>
