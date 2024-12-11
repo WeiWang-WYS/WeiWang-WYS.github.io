@@ -3,7 +3,7 @@ title: "[1] Science Literacy Lecture at Shenzhen Library (深圳图书馆科学�
 excerpt: "<img src='/images/DRL_big.png' height='344' width='442'>"
 collection: talks
 type: "Public Lecture"
-permalink: /talks/SZlibTalk
+permalink: /talks/SZlibTalk.md
 date: 2024-10-26
 ---
 
