@@ -3,7 +3,7 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-------
+---
 
 [P1] 
 Journal Papers 
