@@ -3,11 +3,8 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
----
-Preprint
 ------
-[P1] X.-G. Xia, **W. Wang**, “[Discrete spectrum analysis of vector OFDM signals](https://arxiv.org/pdf/2407.19503),” arXiv preprint arXiv:2407.19503.
-
+[P1] 
 Journal Papers 
 ------
 [J23] J. Chen, **W. Wang**, and J. Wang, “[Opportunistic passive beamforming for RIS-assisted WiFi network: System design and experimental validation](https://ieeexplore.ieee.org/document/10552124),” *IEEE Internet of Things Journal*, DOI: 10.1109/JIOT.2024.3411119. <br>
@@ -37,6 +34,7 @@ Journal Papers
 
 Conference Papers
 ------
+[C15] X.-G. Xia, **W. Wang**, “[Discrete spectrum analysis of vector OFDM signals](https://arxiv.org/pdf/2407.19503),” *Proc. International Conference on Communications (ICC 2024)*, Montreal, Canada, Jun. 8-12, 2025 <br>
 [C14] D. Xie,  C. Liu, **W. Wang**, X. Hu, M. Peng, “Deep residual learning for channel estimation in UAV mmWave systems: A model-driven approach,” *Proc. IEEE International Conference on Communications in China (ICCC 2024)*, Hangzhou, China, Aug. 7-9, 2024.  <br>
 [C13] B. Yang, **W. Wang**, W. Zhang, “Cell-free massive MIMO beamforming based on radio map,” *Proc. International Conference on Communications (ICC 2024)*, Denver, CO, USA, Jun.  9–13, 2024. <br>
 [C12] S. Yan, L. Shi, J. Ren, **W. Wang**, Y. Liu, L. Sun, X. Wang, W. Zhang, “Log-based anomaly detection with transformers pre-trained on large-scale unlabeled data,” *Proc. International Conference on Communications (ICC 2024)*, Denver, CO, USA, Jun.  9–13, 2024. <br>
