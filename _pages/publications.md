@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-[P1] 
 Journal Papers 
 ------
 [J23] J. Chen, **W. Wang**, and J. Wang, “[Opportunistic passive beamforming for RIS-assisted WiFi network: System design and experimental validation](https://ieeexplore.ieee.org/document/10552124),” *IEEE Internet of Things Journal*, DOI: 10.1109/JIOT.2024.3411119. <br>
