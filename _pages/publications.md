@@ -34,7 +34,7 @@ Journal Papers
 
 Conference Papers
 ------
-[C16] X.-G. Xia, **W. Wang**, “[Discrete spectrum analysis of vector OFDM signals](https://arxiv.org/pdf/2407.19503),” *Proc. International Conference on Communications (ICC 2024)*, Montreal, Canada, Jun. 8-12, 2025 <br>
+[C16] X.-G. Xia, **W. Wang**, “[Discrete spectrum analysis of vector OFDM signals](https://arxiv.org/pdf/2407.19503),” *Proc. International Conference on Communications (ICC 2025)*, Montreal, Canada, Jun. 8-12, 2025 <br>
 [C15] D. Xie and C. Liu and **W. Wang** and F. Guo and X. Hu, "[2DLAM: Joint Delay-Doppler Estimation in UAV mmWave System via Large AI Model](https://openreview.net/forum?id=AbmUZ4oJoP)", *AAAI 2025 Workshop on Artificial Intelligence for Wireless Communications and Networking (AI4WCN)*, Philadelphia, Pennsylvania, USA, Feb.25-Mar.4, 2025. <br> 
 [C14] D. Xie,  C. Liu, **W. Wang**, X. Hu, M. Peng, “[Deep residual learning for channel estimation in UAV mmWave systems: A model-driven approach](https://ieeexplore.ieee.org/document/10681783),” *Proc. IEEE International Conference on Communications in China (ICCC 2024)*, Hangzhou, China, Aug. 7-9, 2024. <br>
 [C13] B. Yang, **W. Wang**, W. Zhang, “[Cell-free massive MIMO beamforming based on radio map](https://ieeexplore.ieee.org/document/10622568),” *Proc. International Conference on Communications (ICC 2024)*, Denver, CO, USA, Jun.  9–13, 2024. <br>
