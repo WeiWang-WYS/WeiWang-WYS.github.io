@@ -16,7 +16,7 @@ Short Bio
 
 Research Interests
 ======
-- **Advanced modulation techniques for 6G** <br>
+- **Advanced modulation techniques for 6G communications** <br>
 Exploring the practical applications of vector-OFDM, a.k.a., OTFS, and advancing innovations in 6G waveforms.  <br>
 - **Artificial Intelligence (AI) in wireless communications** <br>
 Exploiting the spatial signatures of wireless channels using deep learning technologies to
