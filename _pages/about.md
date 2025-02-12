@@ -16,15 +16,17 @@ Short Bio
 
 Research Interests
 ======
+- **Advanced modulation techniques for 6G** <br>
+Exploring the practical applications of vector-OFDM, a.k.a., OTFS, and advancing innovations in 6G waveforms.  <br>
+- **Artificial Intelligence (AI) in wireless communications** <br>
+Exploiting the spatial signatures of wireless channels using deep learning technologies to
+self-cluster, auto-encode, and auto-decode the massive data of wireless channels.<br>
 - **Intelligent reflecting surfaces assisted wireless communications** <br>
 Creating smart radio environment using intelligent reflecting surfaces and reinforcement
 learning technologies.<br>
 - **UAV communications** <br>
 Integrating wireless sensing with air navigation for the smarter control of UAV flight and
 communications in urban cellular networks. <br>
-- **Artificial Intelligence (AI) in wireless communications** <br>
-Exploiting the spatial signatures of wireless channels using deep learning technologies to
-self-cluster, auto-encode, and auto-decode the massive data of wireless channels.<br>
 - **Joint localization and millimeter wave communications** <br>
 Embracing localization with mmWave communications to build the dual-function (positioning
 & communications) infrastructures for urban IoT. <br>
