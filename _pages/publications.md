@@ -7,6 +7,7 @@ author_profile: true
 
 Journal Papers 
 ------
+[J24] B. Yang, **W. Wang**, and W. Zhang, “[Radio Map-Based Beamforming Assisted with Reduced Pilots](https://ieeexplore.ieee.org/document/11008499)", *IEEE Transactions on Wireless Communications*, 10.1109/TWC.2025.3569567. <br>
 [J23] J. Chen, **W. Wang**, and J. Wang, “[Opportunistic passive beamforming for RIS-assisted WiFi network: System design and experimental validation](https://ieeexplore.ieee.org/document/10552124),” *IEEE Internet of Things Journal*, vol. 11, no. 18, pp. 30131-30144, Sept. 2024. <br>
 [J22] W. Chen, C. Liu, **W. Wang**, M. Peng, and W. Zhang, “[Adaptive hybrid beamforming for UAV mmWave communications against asymmetric jitter](https://ieeexplore.ieee.org/document/10436051),” *IEEE Transactions on Wireless Communications*,  vol. 23, no. 8, pp. 9432-9445, Aug. 2024. <br>
 [J21] J. Yan, Y. Cui, **W. Wang**, “[A three-level federated learning framework for CSI fingerprint-based indoor localization in multiple servers environment](https://ieeexplore.ieee.org/document/10412104)," *IEEE Communications Letters*, vol. 28, no. 4, pp. 818-822, Apr. 2024. <br>
