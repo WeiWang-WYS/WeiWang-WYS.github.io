@@ -36,7 +36,7 @@ Journal Papers
 
 Conference Papers
 ------
-[C16] X.-G. Xia, and **W. Wang**, “[Discrete spectrum analysis of vector OFDM signals](https://arxiv.org/pdf/2407.19503),” *Proc. International Conference on Communications (ICC 2025)*, Montreal, Canada, Jun. 8-12, 2025 <br>
+[C16] X.-G. Xia and **W. Wang**, “[Discrete spectrum analysis of vector OFDM signals](https://arxiv.org/pdf/2407.19503),” *Proc. International Conference on Communications (ICC 2025)*, Montreal, Canada, Jun. 8-12, 2025 <br>
 [C15] D. Xie, C. Liu, **W. Wang**, F. Guo, and X. Hu, "[2DLAM: Joint Delay-Doppler Estimation in UAV mmWave System via Large AI Model](https://openreview.net/forum?id=AbmUZ4oJoP)", *AAAI 2025 Workshop on Artificial Intelligence for Wireless Communications and Networking (AI4WCN)*, Philadelphia, Pennsylvania, USA, Feb.25-Mar.4, 2025. <br> 
 [C14] D. Xie,  C. Liu, **W. Wang**, X. Hu, and M. Peng, “[Deep residual learning for channel estimation in UAV mmWave systems: A model-driven approach](https://ieeexplore.ieee.org/document/10681783),” *Proc. IEEE International Conference on Communications in China (ICCC 2024)*, Hangzhou, China, Aug. 7-9, 2024. <br>
 [C13] B. Yang, **W. Wang**, and W. Zhang, “[Cell-free massive MIMO beamforming based on radio map](https://ieeexplore.ieee.org/document/10622568),” *Proc. International Conference on Communications (ICC 2024)*, Denver, CO, USA, Jun.  9–13, 2024. <br>
@@ -52,6 +52,7 @@ Conference Papers
 [C3] **W. Wang** and W. Zhang, “[Adaptive spatial modulation using Huffman coding](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7841569),” *Proc. IEEE Global Communications Conference (GLOBECOM 2016)*, Washington, DC, USA, Dec. 4-8, 2016. <br>
 [C2] **W. Wang** and W. Zhang, “[Signal shaping based lattice codes for MIMO systems](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7636808),” *Proc. IEEE International Conference on Communications in China (ICCC 2016)*, Chengdu, China, Jul. 27-29, 2016. <br>
 [C1] **W. Wang** and W. Zhang, “[Diagonal precoder designs for spatial modulation](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7248686),” *Proc. IEEE Int. Conf. Commun. (ICC 2015)*, London, UK, Jun., 2015, pp. 2411-2415. <br>
+
 
 
 
