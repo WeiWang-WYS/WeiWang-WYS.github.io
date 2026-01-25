@@ -7,7 +7,8 @@ author_profile: true
 
 Journal Papers 
 ------
-[J24] B. Yang, **W. Wang**, and W. Zhang, “[Radio Map-Based Beamforming Assisted with Reduced Pilots](https://ieeexplore.ieee.org/document/11008499)", *IEEE Transactions on Wireless Communications*, 10.1109/TWC.2025.3569567. <br>
+[J25] H Liang, Z Wu, Q Li, N Cheng, L Shi, and **W Wang**, “Secure access strategy for SatMEC systems: Risk-aware service selection in the presence of eavesdropping satellites,"*IEEE Transactions on Communications*, vol. 74, pp. 1594-1607, Nov. 2025.
+[J24] B. Yang, **W. Wang**, and W. Zhang, “[Radio Map-Based Beamforming Assisted with Reduced Pilots](https://ieeexplore.ieee.org/document/11008499),” *IEEE Transactions on Wireless Communications*, vol. 24, no. 10, pp. 8878-8891, Oct. 2025. <br>
 [J23] J. Chen, **W. Wang**, and J. Wang, “[Opportunistic passive beamforming for RIS-assisted WiFi network: System design and experimental validation](https://ieeexplore.ieee.org/document/10552124),” *IEEE Internet of Things Journal*, vol. 11, no. 18, pp. 30131-30144, Sept. 2024. <br>
 [J22] W. Chen, C. Liu, **W. Wang**, M. Peng, and W. Zhang, “[Adaptive hybrid beamforming for UAV mmWave communications against asymmetric jitter](https://ieeexplore.ieee.org/document/10436051),” *IEEE Transactions on Wireless Communications*,  vol. 23, no. 8, pp. 9432-9445, Aug. 2024. <br>
 [J21] J. Yan, Y. Cui, **W. Wang**, “[A three-level federated learning framework for CSI fingerprint-based indoor localization in multiple servers environment](https://ieeexplore.ieee.org/document/10412104)," *IEEE Communications Letters*, vol. 28, no. 4, pp. 818-822, Apr. 2024. <br>
@@ -35,11 +36,11 @@ Journal Papers
 
 Conference Papers
 ------
-[C16] X.-G. Xia, **W. Wang**, “[Discrete spectrum analysis of vector OFDM signals](https://arxiv.org/pdf/2407.19503),” *Proc. International Conference on Communications (ICC 2025)*, Montreal, Canada, Jun. 8-12, 2025 <br>
-[C15] D. Xie and C. Liu and **W. Wang** and F. Guo and X. Hu, "[2DLAM: Joint Delay-Doppler Estimation in UAV mmWave System via Large AI Model](https://openreview.net/forum?id=AbmUZ4oJoP)", *AAAI 2025 Workshop on Artificial Intelligence for Wireless Communications and Networking (AI4WCN)*, Philadelphia, Pennsylvania, USA, Feb.25-Mar.4, 2025. <br> 
-[C14] D. Xie,  C. Liu, **W. Wang**, X. Hu, M. Peng, “[Deep residual learning for channel estimation in UAV mmWave systems: A model-driven approach](https://ieeexplore.ieee.org/document/10681783),” *Proc. IEEE International Conference on Communications in China (ICCC 2024)*, Hangzhou, China, Aug. 7-9, 2024. <br>
-[C13] B. Yang, **W. Wang**, W. Zhang, “[Cell-free massive MIMO beamforming based on radio map](https://ieeexplore.ieee.org/document/10622568),” *Proc. International Conference on Communications (ICC 2024)*, Denver, CO, USA, Jun.  9–13, 2024. <br>
-[C12] S. Yan, L. Shi, J. Ren, **W. Wang**, Y. Liu, L. Sun, X. Wang, W. Zhang, “[Log-based anomaly detection with transformers pre-trained on large-scale unlabeled data,](https://ieeexplore.ieee.org/document/10623067)” *Proc. International Conference on Communications (ICC 2024)*, Denver, CO, USA, Jun.  9–13, 2024. <br>
+[C16] X.-G. Xia, and **W. Wang**, “[Discrete spectrum analysis of vector OFDM signals](https://arxiv.org/pdf/2407.19503),” *Proc. International Conference on Communications (ICC 2025)*, Montreal, Canada, Jun. 8-12, 2025 <br>
+[C15] D. Xie, C. Liu, **W. Wang**, F. Guo, and X. Hu, "[2DLAM: Joint Delay-Doppler Estimation in UAV mmWave System via Large AI Model](https://openreview.net/forum?id=AbmUZ4oJoP)", *AAAI 2025 Workshop on Artificial Intelligence for Wireless Communications and Networking (AI4WCN)*, Philadelphia, Pennsylvania, USA, Feb.25-Mar.4, 2025. <br> 
+[C14] D. Xie,  C. Liu, **W. Wang**, X. Hu, and M. Peng, “[Deep residual learning for channel estimation in UAV mmWave systems: A model-driven approach](https://ieeexplore.ieee.org/document/10681783),” *Proc. IEEE International Conference on Communications in China (ICCC 2024)*, Hangzhou, China, Aug. 7-9, 2024. <br>
+[C13] B. Yang, **W. Wang**, and W. Zhang, “[Cell-free massive MIMO beamforming based on radio map](https://ieeexplore.ieee.org/document/10622568),” *Proc. International Conference on Communications (ICC 2024)*, Denver, CO, USA, Jun.  9–13, 2024. <br>
+[C12] S. Yan, L. Shi, J. Ren, **W. Wang**, Y. Liu, L. Sun, X. Wang, and W. Zhang, “[Log-based anomaly detection with transformers pre-trained on large-scale unlabeled data,](https://ieeexplore.ieee.org/document/10623067)” *Proc. International Conference on Communications (ICC 2024)*, Denver, CO, USA, Jun.  9–13, 2024. <br>
 [C11] W. Chen, C. Liu, **W. Wang**, and M. Peng, “[Adaptive beamwidth control for UAV mmWave communications under jittering effects](https://ieeexplore.ieee.org/document/10283724),” *Proc. International Conference on Communications (ICC 2023) Workshop*, Rome, Italy,  May 28-Jun. 01. <br>
 [C10] **W. Wang** and W. Zhang, “[Deep reinforcement learning empowered smart control of intelligent reflecting surface](https://ieeexplore.ieee.org/document/10000897/),” *Proc. IEEE Global Communications Conference (GLOBECOM 2022)*, Rio de Janeiro, Brazil, Dec.4-8, 2022. <br>
 [C9] H. Wu, Z. Shao, G. Cheng, X. Hu, J. Ren, and **W. Wang**, “[Detecting slow port scans of long duration in high-speed networks](https://ieeexplore.ieee.org/document/10001708/),” *Proc. IEEE Global Communications Conference (GLOBECOM 2022)*, Rio de Janeiro, Brazil, Dec.4-8, 2022. <br>
@@ -51,3 +52,4 @@ Conference Papers
 [C3] **W. Wang** and W. Zhang, “[Adaptive spatial modulation using Huffman coding](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7841569),” *Proc. IEEE Global Communications Conference (GLOBECOM 2016)*, Washington, DC, USA, Dec. 4-8, 2016. <br>
 [C2] **W. Wang** and W. Zhang, “[Signal shaping based lattice codes for MIMO systems](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7636808),” *Proc. IEEE International Conference on Communications in China (ICCC 2016)*, Chengdu, China, Jul. 27-29, 2016. <br>
 [C1] **W. Wang** and W. Zhang, “[Diagonal precoder designs for spatial modulation](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7248686),” *Proc. IEEE Int. Conf. Commun. (ICC 2015)*, London, UK, Jun., 2015, pp. 2411-2415. <br>
+
