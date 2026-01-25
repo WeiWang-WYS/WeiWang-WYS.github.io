@@ -7,7 +7,7 @@ author_profile: true
 
 Journal Papers 
 ------
-[J25] H Liang, Z Wu, Q Li, N Cheng, L Shi, and **W Wang**, “Secure access strategy for SatMEC systems: Risk-aware service selection in the presence of eavesdropping satellites,"*IEEE Transactions on Communications*, vol. 74, pp. 1594-1607, Nov. 2025. <br>
+[J25] H Liang, Z Wu, Q Li, N Cheng, L Shi, and **W Wang**, “[Secure access strategy for SatMEC systems: Risk-aware service selection in the presence of eavesdropping satellites](https://ieeexplore.ieee.org/abstract/document/11268313),” *IEEE Transactions on Communications*, vol. 74, pp. 1594-1607, Nov. 2025. <br>
 [J24] B. Yang, **W. Wang**, and W. Zhang, “[Radio Map-Based Beamforming Assisted with Reduced Pilots](https://ieeexplore.ieee.org/document/11008499),” *IEEE Transactions on Wireless Communications*, vol. 24, no. 10, pp. 8878-8891, Oct. 2025. <br>
 [J23] J. Chen, **W. Wang**, and J. Wang, “[Opportunistic passive beamforming for RIS-assisted WiFi network: System design and experimental validation](https://ieeexplore.ieee.org/document/10552124),” *IEEE Internet of Things Journal*, vol. 11, no. 18, pp. 30131-30144, Sept. 2024. <br>
 [J22] W. Chen, C. Liu, **W. Wang**, M. Peng, and W. Zhang, “[Adaptive hybrid beamforming for UAV mmWave communications against asymmetric jitter](https://ieeexplore.ieee.org/document/10436051),” *IEEE Transactions on Wireless Communications*,  vol. 23, no. 8, pp. 9432-9445, Aug. 2024. <br>
@@ -52,5 +52,6 @@ Conference Papers
 [C3] **W. Wang** and W. Zhang, “[Adaptive spatial modulation using Huffman coding](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7841569),” *Proc. IEEE Global Communications Conference (GLOBECOM 2016)*, Washington, DC, USA, Dec. 4-8, 2016. <br>
 [C2] **W. Wang** and W. Zhang, “[Signal shaping based lattice codes for MIMO systems](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7636808),” *Proc. IEEE International Conference on Communications in China (ICCC 2016)*, Chengdu, China, Jul. 27-29, 2016. <br>
 [C1] **W. Wang** and W. Zhang, “[Diagonal precoder designs for spatial modulation](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7248686),” *Proc. IEEE Int. Conf. Commun. (ICC 2015)*, London, UK, Jun., 2015, pp. 2411-2415. <br>
+
 
 
