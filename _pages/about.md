@@ -8,11 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-**<font color=red>News:</font>** 我目前有充足经费可以支持实习生、科研助理参与科研工作，欢迎感兴趣的同学直接与我联系。此外，欢迎基础扎实的同学申请鹏城博士专项录取名额。（I currently have sufficient funds to support interns and research assistants participating in research work.  Interested students, please contact me directly. Additionally, students with a solid foundation are encouraged to apply for Ph.D. admission.）
 
 Short Bio
 ======
-<p style="text-align:justify">Wei Wang is currently a senior research scientist (equivalent to associate professor) with the Peng Cheng Laboratory, Shenzhen, China. He received the B.S. degree  (with the highest honor) from Central South University, Changsha, China in 2010, the M.S. degree from Southeast University, Nanjing, China in 2013, and the Ph.D. degree from the University of New South Wales, Sydney, Australia in 2017. From 2018 to 2021, he was a Post-Doctoral Research Fellow with the School of Electrical Engineering and Telecommunications, the University of New South Wales, Sydney, Australia.</p>
+<p style="text-align:justify"> Wei Wang is a Professor with the School of Information Science and Technology, Harbin Institute of Technology, Shenzhen. His research interests include millimeter-wave communications and machine learning for wireless communications. Dr. Wang was a recipient of the 2023 IEEE ComSoc AP Outstanding Young Researcher Award and the Best Paper Awards at the IEEE ICCC 2016 and 2024. He serves as an Editor for IEEE TRANSACTIONS ON MOBILE COMPUTING and previously served as an Editor for IEEE WIRELESS COMMUNICATIONS LETTERS. He also served as Co-Chair for multiple symposia and workshops at major IEEE conferences.</p>
 
 Research Interests
 ======
@@ -35,12 +34,14 @@ Embracing localization with mmWave communications to build the dual-function (po
 
 Research Projects
 ======
-- **Natural Science Foundation of China Project For Young Researcher**, 300K RMB, 2023-2025. <br>
-- **National Key Research and Development Program of China**, 1.88M RMB, 2023-2025. <br>
-- **National Young Talents Program**, 2.5M RMB, 2023-2025. <br>
+- **Natural Science Foundation of China General Program**, 2026-2029. <br>
+- **Natural Science Foundation of China Project For Young Researcher**, 2023-2025. <br>
+- **National Key Research and Development Program of China**, 2023-2025. <br>
+- **National Young Talents Program**, 2023-2025. <br>
 
 Academic Services
 ======
+- **Editor**: *IEEE Transacitons on Mobile Computing*, 2025-present <br>
 - **Editor**: *[IEEE Wireless Communications Letters](https://www.comsoc.org/publications/journals/ieee-wcl/ieee-wireless-communications-letters-editorial-board)*, 2019-2023 <br>
 - **Symposium co-chair**: [*Signal Processing for Communications (SPC) Symposium*](https://iccc2021.ieee-iccc.org/committee/symposium-co-chairs/), IEEE/CIC
 International Conference on Communications in China, 28-30 Jul. 2021, Xiamen, China <br>
