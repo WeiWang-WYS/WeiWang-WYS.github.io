@@ -7,7 +7,7 @@ author_profile: true
 
 Journal Papers 
 ------
-[J30] **W. Wang** and Y. Shen, "Intelligent Reflection as a Service (IRaaS): System Architecture, enabling Technologies, and deployment Strategy", *IEEE Wireless Communications*, to appear. <br>
+[J30] **W. Wang** and Y. Shen, "[Intelligent Reflection as a Service (IRaaS): System Architecture, enabling Technologies, and deployment Strategy](https://ieeexplore.ieee.org/document/11488897)", *IEEE Wireless Communications*, to appear. <br>
 [J29] **W. Wang** and X.-G. Xia, "[On the spectrum of OTFS/VOFDM signals: PSD analysis and bandwidth allocation](https://ieeexplore.ieee.org/document/11434869)," *IEEE Transactions on Wireless Communications*, vol.25, pp. 13685-13697, Mar. 2026. <br>
 [J28] S. Yan, L. Shi, **W. Wang**, J. Ren, Y. Li, L. Sun, "[LLMBA: Efficient behavior analytics via large pretrained models in zero trust networks](https://ieeexplore.ieee.org/document/11400583)," *IEEE Transactions on Information Forensics and Security*, vol.21, pp.2403 - 2415, Feb. 2026. <br>
 [J27] B. Yang, **W. Wang**, W. Zhang, and W. Zhang, "[Generative radio map-assisted channel estimation in low-altitude economy](https://ieeexplore.ieee.org/document/11397522)," *IEEE Transactions on Mobile Computing*, DOI: 10.1109/TMC.2026.3665545. <br>
