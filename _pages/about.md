@@ -11,7 +11,7 @@ redirect_from:
 
 Short Bio
 ======
-<p style="text-align:justify"> Wei Wang is a Professor with the School of Information Science and Technology, Harbin Institute of Technology, Shenzhen. His research interests include millimeter-wave communications and machine learning for wireless communications. Dr. Wang was a recipient of the 2023 IEEE ComSoc AP Outstanding Young Researcher Award and the Best Paper Awards at the IEEE ICCC 2016 and 2024. He serves as an Editor for IEEE TRANSACTIONS ON MOBILE COMPUTING and previously served as an Editor for IEEE WIRELESS COMMUNICATIONS LETTERS. He also served as Co-Chair for multiple symposia and workshops at major IEEE conferences.</p>
+<p style="text-align:justify"> Wei Wang is a Professor with the School of Information Science and Technology, Harbin Institute of Technology, Shenzhen. His research interests include millimeter-wave communications and machine learning for wireless communications. Dr. Wang was a recipient of the 2023 IEEE ComSoc AP Outstanding Young Researcher Award and the Best Paper Awards at the IEEE ICCC 2016 and 2024. He serves as an Editor for IEEE TRANSACTIONS ON MOBILE COMPUTING and previously served as an Editor for IEEE WIRELESS COMMUNICATIONS LETTERS. He also served as Co-Chair for multiple symposia and workshops at major IEEE conferences. </p>
 
 Research Interests
 ======
